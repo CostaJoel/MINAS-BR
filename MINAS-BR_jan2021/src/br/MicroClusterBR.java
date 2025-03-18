@@ -12,7 +12,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Objects;
 
 /**
@@ -83,12 +85,13 @@ public class MicroClusterBR {
         this.setAverOut(sum / X_b.size());
     }
     
-    public void calculateAverOutputNovelty(ArrayList<Instance> toClassify){
+    public void calculateAverOutputNovelty(List<Entry<Integer, Instance>> toClassify){
         ArrayList<double[]> toCalculateAvgOut = new ArrayList<>();
+
         toClassify.forEach(inst -> {
-            toCalculateAvgOut.add(Arrays.copyOfRange(inst.toDoubleArray(),
-                    inst.numOutputAttributes(),
-                    inst.numAttributes()));
+            toCalculateAvgOut.add(Arrays.copyOfRange(inst.getValue().toDoubleArray(),
+                    inst.getValue().numOutputAttributes(),
+                    inst.getValue().numAttributes()));
         });
         this.calculateInitialAverOutput(toCalculateAvgOut);
     }

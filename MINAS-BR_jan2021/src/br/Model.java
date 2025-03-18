@@ -18,7 +18,9 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -359,14 +361,15 @@ public class Model {
         model.get(label).add(modelUnk);
     }
     
-    public ArrayList<Instance> getInstancesUsedToBuildNewMC(int[] removeExamples, int indexMC) {
-        ArrayList<Instance> toClassify = new ArrayList<>();
+    public List<Map.Entry<Integer, Instance>> getInstancesUsedToBuildNewMC(int[] removeExamples, int indexMC) {
+        List<Map.Entry<Integer, Instance>> toClassify = new ArrayList<>();
         for (int indexForRemoving = 0; indexForRemoving < removeExamples.length; indexForRemoving++) {
             // mark the examples to be removed with the label -2
             if (removeExamples[indexForRemoving] == indexMC) {
                 removeExamples[indexForRemoving] = -2;
                 Instance inst = this.getShortTimeMemory().getData().get(indexForRemoving);
-                toClassify.add(inst); //add to classify
+                int timestamp = this.getShortTimeMemory().getTimestamp().get(indexForRemoving)
+                toClassify.add(Map.entry(timestamp, inst)); //add to classify
             }
         }
         return toClassify;
