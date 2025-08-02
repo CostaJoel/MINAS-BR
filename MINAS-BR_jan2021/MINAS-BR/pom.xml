@@ -53,12 +53,25 @@
         <groupId>com.minasbr</groupId>
         <artifactId>minasLocal</artifactId>
         <version>1.0</version>
-        <scope>system</scope>
-        <systemPath>${project.basedir}/libs/MINAS.jar</systemPath>
     </dependency>
   </dependencies>
   <build>
     <plugins>
+        <!-- Plugin para gerar o Manifest correto no .jar -->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-jar-plugin</artifactId>
+            <version>3.2.2</version>
+            <configuration>
+                <archive>
+                    <manifest>
+                        <mainClass>com.minasbr.Main</mainClass>
+                    </manifest>
+                </archive>
+            </configuration>
+        </plugin>
+
+        <!-- Plugin para rodar a aplicação sem precisar gerar o .jar -->
         <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>exec-maven-plugin</artifactId>
@@ -70,6 +83,3 @@
     </plugins>
 </build>
 </project>
-
-
-

@@ -31,45 +31,53 @@ public class Main {
             System.out.println("3: Caminho dataset de teste (e.g. src/main/resources/datasets/4CRE-V2-test.arff)");
             System.out.println("4: Quando args[0] = 'MINAS-BR', quantidade de classes no dataset (e.g. 4, 5, etc.)");
             System.out.println("5: Quando args[0] = 'MINAS-BR', parametro k_ini (N K inicial fase de treino)");
-            System.out.println("6: Quando args[0] = 'MINAS-BR', parametro theta. Limite da memória temporária. O valor passado deve ser uma porcentagem, que representa uma porcentagem do tamanho janela de esquecimento de exemplos. (E.g. omega = 2000, theta = 0.5, então limiteMemoriaTemporaria = 2000*0.5, ouseja limiteMemoriaTemporaria = 1000 )");
-            System.out.println("6: Quando args[0] = 'MINAS-BR', parametro omega (tamanho da janela de esquecimento de exemplos e de micro-clusters)");
+            System.out.println("6: Quando args[0] = 'MINAS-BR', parametro theta. Limite da memória temporária. O valor passado deve ser uma porcentagem, que representa uma porcentagem do tamanho janela de esquecimento de exemplos. (E.g. omega = 2000, theta = 0.5, então limiteMemoriaTemporaria = 2000*0.5, ou seja limiteMemoriaTemporaria = 1000 )");
+            System.out.println("7: Quando args[0] = 'MINAS-BR', parametro omega (tamanho da janela de esquecimento de exemplos e de micro-clusters)");
             return;
         }
-        
-        string tipoAlgoritmo = "MINAS-BR";
-        string dataSetName = "4CRE-V2";
-        String trainPath = "src/main/resources/datasets/"+dataSetName+"-train.arff";
-        String testPath = "src/main/resources/datasets/"+dataSetName+"-train.arff";
 
-        // string tipoAlgoritmo = args[0].toLowerCase();
-        // string dataSetName = "MOA-3C-5C-2D";
-        // String trainPath = "src/main/resources/datasets/"+dataSetName+"-train.arff";
-        // String testPath = "src/main/resources/datasets/"+dataSetName+"-train.arff";
-        // string dataSetName = args[1];
-        // String trainPath = args[2];
-        // String testPath = args[3];
-        String outputDirectory = "src/main/resources/resultados_testes_2025/" + dataSetName + "/" + tipoAlgoritmo;
+        // String tipoAlgoritmo = "upperbounds";
+        // String tipoAlgoritmo = "lowerbounds";
+        // String tipoAlgoritmo = "minas-br";
+        // String dataSetName = "4CRE-V2";
+        // int L = 4;
+        // String trainPath = "resources/datasets/"+dataSetName+"-train.arff";
+        // String testPath = "resources/datasets/"+dataSetName+"-train.arff";
+        String tipoAlgoritmo = args[0].toLowerCase();
+        String dataSetName = args[1];
+        String trainPath = args[2];
+        String testPath = args[3];
+        String outputDirectory = "resources/results_output/" + dataSetName + "/" + tipoAlgoritmo;
         switch (tipoAlgoritmo) {
             case "minas-br":
                 System.out.println("Você escolheu executar o MINAS-BR.");
+                // double k_ini = 0.05;
+                // String omega = "2000";
+                // String theta = "" + (int) Math.ceil(Double.parseDouble("0.75") *
+                // Double.parseDouble(omega));
                 int L = Integer.parseInt(args[4]);
-                double k_ini = 0.01;
-                String omega = "2000";
-                String theta = "" + (int) Math.ceil(Double.parseDouble("0.5") * Double.parseDouble(omega));
-                // double k_ini = Double.parseDouble(args[5]);
-                // String theta = "" + (int) Math.ceil(Double.parseDouble(args[5]) * Double.parseDouble(args[6]));
-                // String omega = args[6];
+                double k_ini = Double.parseDouble(args[5]);
+                String theta = "" + (int) Math.ceil(Double.parseDouble(args[6]) * Double.parseDouble(args[7]));
+                String omega = args[7];
+                System.out.println("Configuração de parametros:");
+                System.out.println("Classes (L): " + L);
+                System.out.println("Qtde de micro-clusters iniciais (k_ini): " + k_ini + "%");
+                System.out.println("Limite da memória temporária (theta): " + theta);
+                System.out.println("Tamanho da janela (omega): " + theta);
                 experimentsMethods(trainPath,
-                    testPath,
-                    outputDirectory,
-                    L,
-                    k_ini,
-                    theta,
-                    omega,
-                    "1.1",
-                    "kmeans+leader",
-                    "JI"
-                );
+                        testPath,
+                        outputDirectory,
+                        L,
+                        k_ini,
+                        theta,
+                        omega,
+                        "1.1",
+                        "kmeans+leader",
+                        "JI");
+                // experimentsParameters(dataSetName, trainPath,
+                // testPath,
+                // L,
+                // outputDirectory);
                 break;
             case "upperbounds":
                 System.out.println("Você escolheu executar os métodos Upper Bounds.");
@@ -80,9 +88,10 @@ public class Main {
                 ExperimentBatch.execute(trainPath, testPath, outputDirectory, "50");
                 break;
             default:
-                throw new Exception("Nome tipo algoritmo invalido! Selecionar entre as 3 opções: (MINAS-BR; upperbounds; lowerbounds)");
+                throw new Exception(
+                        "Nome tipo algoritmo invalido! Selecionar entre as 3 opções: (MINAS-BR; upperbounds; lowerbounds)");
         }
-        System.out.println("Execução do " + tipoAlgoritmo + "finalizada com sucesso!");
+        System.out.println("Execução do " + tipoAlgoritmo + " finalizada com sucesso!");
     }
 
     private static void experimentsParameters(String dataSetName,
@@ -173,23 +182,6 @@ public class Main {
             int omega,
             double f,
             String outputDirectory) throws IOException, Exception {
-
-        // Instances D_ = DataSetUtils.dataFileToInstance(dataSetPath);
-        // int L = D_.classIndex();
-        // int streamSize = D_.numInstances();
-        // int L = 81;
-        // int streamSize = 269648;
-
-        // MultiTargetArffFileStream stream = new MultiTargetArffFileStream(dataSetPath,
-        // String.valueOf(L));
-        // stream.prepareForUse();
-        // ArrayList<Instance> train = new ArrayList<Instance>();
-        // ArrayList<Instance> test = new ArrayList<Instance>();
-        // slipTrainTest(train, test, stream, streamSize, 0.1);
-        // int[] dist = DataSetUtils.getLabelsDistribution(train);
-        // int[] distTest = DataSetUtils.getLabelsDistribution(train);
-        // float[] windowsCardinalities = DataSetUtils.getWindowsCardinalities(test,
-        // evaluationWindowSize, L);
 
         // Create output files
         FileWriter filePredictions = new FileWriter(new File(outputDirectory + "/faseOnlineInfo_.txt"), false); // Armazena

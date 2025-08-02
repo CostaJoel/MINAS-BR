@@ -1,0 +1,44 @@
+*********Extension**********
+Timestamp1327
+Thinking np: N 4 - 5 examplesThinking Extension: C 1 - 5 examples
+
+Thinking np: N 4 - 5 examplesThinking Extension: C 1 - 5 examples
+Thinking Extension: C 2 - 5 examples
+
+*********Novelty Pattern**********
+Timestamp1487
+Thinking np: N 4 - 4 examplesThinkingNov: Novelty NP2 - 2 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp1891
+Thinking np: N NP1 - 5 examplesThinkingNov: Novelty NP3 - 2 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp1918
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP4 - 2 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp2256
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP5 - 2 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp5652
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP6 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp7680
+Thinking np: N NP1 - 6 examplesThinkingNov: Novelty NP7 - 1 micro-clusters
+
+*********Extension**********
+Timestamp8690
+Thinking extension: C NP1 - 4 examplesThinking Extension: C 2 - 4 examples
+
+Thinking extension: C NP1 - 4 examplesThinking Extension: C 2 - 4 examples
+Thinking Extension: C 3 - 4 examples
+
+Thinking extension: C NP1 - 4 examplesThinking Extension: C 2 - 4 examples
+Thinking Extension: C 3 - 4 examples
+Thinking NoveltyExtension: N NP4 - 4 examples
+Thinking extension: C NP1 - 4 examplesThinking Extension: C 2 - 4 examples
+Thinking Extension: C 3 - 4 examples
+Thinking NoveltyExtension: N NP4 - 4 examplesThinking NoveltyExtension: N NP1 - 4 examples

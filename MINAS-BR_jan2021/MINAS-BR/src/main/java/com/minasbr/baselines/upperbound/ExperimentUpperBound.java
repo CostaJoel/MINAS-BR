@@ -134,25 +134,25 @@ public class ExperimentUpperBound {
         getHeaderLoadDataSet(fileTest, numLabels, testSet);
         ArrayList<Evaluator> evaluatorList = new ArrayList<Evaluator>();
 
-        String method = "EaBR";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "EaCC";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "CC";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "BR";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "EaPS";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "PS";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "MLHT";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "EaMLHT";
+        // String method = "EaBR";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        // method = "EaCC";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        // method = "CC";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        // method = "BR";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        // method = "EaPS";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        // method = "PS";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        // method = "EaMLHT";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        // method = "EaISOUPTree";
+        // evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
+        String method = "MLHT";
         evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
         method = "ISOUPTree";
-        evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
-        method = "EaISOUPTree";
         evaluatorList.add(executeMethod(method, header, trainSet, testSet, numWindows, numLabels, outputDirectory));
 
         EvaluatorBR.writesAvgResults(evaluatorList, outputDirectory);
@@ -345,10 +345,6 @@ public class ExperimentUpperBound {
         System.out.println("###Offline Phase####");
         for (int i = 0; i < trainSet.size(); i++) {
             System.out.println("Train: " + i);
-            // if(i == 3549){
-            // System.out.println("Pula");
-            // continue;
-            // }
             System.out.println("Size:" + trainSet.get(i).instance.toDoubleArray().length);
             learner.trainOnInstance(trainSet.get(i));
         }
@@ -360,10 +356,15 @@ public class ExperimentUpperBound {
             trueLabelsList.add(DataSetUtils.getLabelSet(testSet.get(i).getData()));
             Prediction predictions = learner.getPredictionForInstance(testSet.get(i));
             predictionlist.add(predictions);
-            learner.trainOnInstance(testSet.get(i));
-            // filePredictions.write("True Labels: " +
-            // trueLabelsList.get(trueLabelsList.size()-1) + "\t Predicted: " +
-            // predictions.toString() + "\n");
+            List<String> listMethodsWithoutFeedback = Arrays.asList("MLHT", "ISOUPTree");
+
+            if (!listMethodsWithoutFeedback.contains(method)){
+                // System.out.println("Método com feedback " + method);
+                learner.trainOnInstance(testSet.get(i));
+            }
+            // else{
+            //     System.out.println("Método sem feedback " + method);
+            // }
 
             if (i > 0 && i % evaluationWindowsSize == 0) {
                 System.out.println("####Window - " + window + "####");

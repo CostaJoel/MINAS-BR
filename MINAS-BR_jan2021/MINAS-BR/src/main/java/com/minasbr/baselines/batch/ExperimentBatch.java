@@ -43,6 +43,7 @@ import meka.classifiers.multilabel.meta.SubsetMapper;
 import com.minasbr.utils.FilesOutput;
 import weka.classifiers.bayes.NaiveBayes;
 import weka.core.Instance;
+import java.io.FileWriter;
 
 /**
  * Evaluation.java - Evaluation functionality.
@@ -332,6 +333,7 @@ public class ExperimentBatch{
         Instances trainSet, Instances testSet, int evaluationWindowsSize, String outputDirectory) throws Exception {
         String output = outputDirectory + "/" + nameMethod + "/";
         FilesOutput.createDirectory(output);
+        FileWriter filePredictions = new FileWriter(new File(output + "prediction.txt"), false);
         // Load Instances from a file
         int numLabels = trainSet.classIndex();
         Set<String> knownClasses = DataSetUtils.getClassesConhecidas(trainSet, numLabels);
@@ -360,6 +362,12 @@ public class ExperimentBatch{
         int window = 1;
         for (int i = 0; i < trueLabelsSet.size(); i++) {
 //            System.out.println("Real: " +  trueLabelsSet.get(i) + "\t" + "Predicted: " + predSet.get(i).toString());
+            try{
+                filePredictions.write("True Labels: " + trueLabelsSet.get(i) + "\t Predicted: " + predSet.get(i).toString()+ "\n");
+            }catch(Exception ex){
+                ex.printStackTrace();
+                System.out.println("Erro na escrita das predições.");
+            }
             evaluator.updateExampleBasedMeasures(predSet.get(i), trueLabelsSet.get(i));
             evaluator.updateLabelBasedMeasures(predSet.get(i), trueLabelsSet.get(i));
 
@@ -373,6 +381,7 @@ public class ExperimentBatch{
 //        FilesOutput.createDirectory(outputDirectory+"\\"+nameMethod+"\\");
         evaluator.writeMeasuresOverTime(output);
         evaluator.writesAvgResults(outputDirectory);
+        filePredictions.close();
         return evaluator;
     }
     

@@ -12,6 +12,7 @@ import com.minasbr.dataSource.DataSetUtils;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.AbstractMap;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -133,10 +134,10 @@ public class Model {
         FileWriter file = null;
         try {
             if(timestamp <= 1){
-                file = new FileWriter(new File(outputDirectory + "/cardinalitiesOverTime.csv"), false);
+                file = new FileWriter(new File(outputDirectory + "\\cardinalitiesOverTime.csv"), false);
                 file.write("timestamp,cardinality" +"\n");
             }else{
-                file = new FileWriter(new File(outputDirectory + "/cardinalitiesOverTime.csv"), true);
+                file = new FileWriter(new File(outputDirectory + "\\cardinalitiesOverTime.csv"), true);
             }
                 
         } catch (IOException ex) {
@@ -369,7 +370,7 @@ public class Model {
                 removeExamples[indexForRemoving] = -2;
                 Instance inst = this.getShortTimeMemory().getData().get(indexForRemoving);
                 int timestamp = this.getShortTimeMemory().getTimestamp().get(indexForRemoving);
-                toClassify.add(Map.entry(timestamp, inst)); //add to classify
+                toClassify.add(new AbstractMap.SimpleEntry<>(timestamp, inst));
             }
         }
         return toClassify;
