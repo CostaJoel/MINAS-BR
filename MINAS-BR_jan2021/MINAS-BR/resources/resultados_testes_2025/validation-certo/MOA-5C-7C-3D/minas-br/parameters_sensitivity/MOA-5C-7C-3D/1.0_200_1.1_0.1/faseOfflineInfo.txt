@@ -1,0 +1,12 @@
+Classes for the training phase (offline): [0, 1, 2, 3, 4]
+Quantidade de classes: 5
+Class: 0 size: 20 n:192
+Class: 1 size: 35 n:374
+Class: 2 size: 38 n:372
+Class: 3 size: 23 n:230
+Class: 4 size: 19 n:191
+Label Cardinality: 2.0
+Known Classes: 5
+Train label cardinality: 2.0
+Number of examples: 10000
+Number of attributes: 3

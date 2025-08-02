@@ -1,0 +1,63 @@
+*********Novelty Pattern**********
+Timestamp324
+Thinking np: N 4 - 4 examplesThinkingNov: Novelty NP2 - 2 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp376
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP3 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp479
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP4 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp563
+Thinking extension: C NP1 - 4 examplesThinkingNov: Novelty NP5 - 2 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp724
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP6 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp841
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP7 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp865
+Thinking np: N NP1 - 4 examplesThinkingNov: Novelty NP8 - 2 micro-clusters
+
+*********Extension**********
+Timestamp919
+Thinking extension: C NP1 - 4 examplesThinking NoveltyExtension: N NP4 - 4 examples
+Thinking extension: C NP1 - 4 examplesThinking NoveltyExtension: N NP4 - 4 examplesThinking NoveltyExtension: N NP1 - 4 examples
+*********Extension**********
+Timestamp1401
+Thinking np: N NP1 - 4 examplesThinking Extension: C 0 - 4 examples
+
+Thinking np: N NP1 - 4 examplesThinking Extension: C 0 - 4 examples
+Thinking Extension: C 4 - 4 examples
+
+*********Novelty Pattern**********
+Timestamp1734
+Thinking np: N NP6 - 5 examplesThinkingNov: Novelty NP9 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp1826
+Thinking np: N NP8 - 4 examplesThinkingNov: Novelty NP10 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp1919
+Thinking np: N NP8 - 5 examplesThinkingNov: Novelty NP11 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp3330
+Thinking np: N NP8 - 4 examplesThinkingNov: Novelty NP12 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp4175
+Thinking np: N NP8 - 4 examplesThinkingNov: Novelty NP13 - 1 micro-clusters
+
+*********Novelty Pattern**********
+Timestamp6358
+Thinking np: N NP8 - 4 examplesThinkingNov: Novelty NP14 - 1 micro-clusters
+

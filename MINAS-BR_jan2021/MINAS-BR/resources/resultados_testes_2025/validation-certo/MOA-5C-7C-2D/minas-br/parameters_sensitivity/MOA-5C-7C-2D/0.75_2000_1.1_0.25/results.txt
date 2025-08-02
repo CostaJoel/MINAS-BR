@@ -1,0 +1,2221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thinking np: N 4 - 4 examples
+
+
+
+
+
+
+
+
+
+
+Thinking np: N NP1 - 4 examples
+Thinking np: N NP1 - 4 examples
+
+
+
+Thinking np: N NP1 - 4 examples
+Thinking np: N NP1 - 4 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 6 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+
+
+Thinking np: N NP8 - 5 examples
+Thinking np: N NP8 - 4 examples
+
+
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 6 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+
+
+
+
+
+Thinking np: N NP8 - 4 examples
+
+
+
+
+Thinking np: N NP30 - 4 examples
+
+
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP13]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP14]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP15]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP16]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP31]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP10]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP11]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP12]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP17]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP18]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP19]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP24]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP25]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP26]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP27]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP20]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP21]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP22]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP23]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP28]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP29]:1
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP1]:1
+Removed micro-clusters: 3 label: 0 category: normal
+Removed micro-clusters: 5 label: 0 category: normal
+Removed micro-clusters: 5 label: 0 category: normal
+Removed micro-clusters: 6 label: 0 category: normal
+Removed micro-clusters: 6 label: 0 category: normal
+Removed micro-clusters: 7 label: 0 category: normal
+Removed micro-clusters: 9 label: 0 category: normal
+Removed micro-clusters: 13 label: 0 category: normal
+Removed micro-clusters: 13 label: 0 category: normal
+Removed micro-clusters: 15 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 23 label: 0 category: normal
+Removed micro-clusters: 23 label: 0 category: normal
+Removed micro-clusters: 23 label: 0 category: normal
+Removed micro-clusters: 31 label: 0 category: normal
+Removed micro-clusters: 33 label: 0 category: normal
+Removed micro-clusters: 33 label: 0 category: normal
+Removed micro-clusters: 34 label: 0 category: normal
+Removed micro-clusters: 35 label: 0 category: normal
+Removed micro-clusters: 39 label: 0 category: normal
+Removed micro-clusters: 39 label: 0 category: normal
+Removed micro-clusters: 40 label: 0 category: normal
+Removed micro-clusters: 42 label: 0 category: normal
+Removed micro-clusters: 42 label: 0 category: normal
+Removed micro-clusters: 42 label: 0 category: normal
+Removed micro-clusters: 46 label: 0 category: normal
+Removed micro-clusters: 46 label: 0 category: normal
+Removed micro-clusters: 46 label: 0 category: normal
+Removed micro-clusters: 46 label: 0 category: normal
+Removed micro-clusters: 47 label: 0 category: normal
+Removed micro-clusters: 49 label: 0 category: normal
+Removed micro-clusters: 49 label: 0 category: normal
+Removed micro-clusters: 51 label: 0 category: normal
+Removed micro-clusters: 52 label: 0 category: normal
+Removed micro-clusters: 52 label: 0 category: normal
+Removed micro-clusters: 52 label: 0 category: normal
+Removed micro-clusters: 52 label: 0 category: normal
+Removed micro-clusters: 52 label: 0 category: normal
+Removed micro-clusters: 52 label: 0 category: normal
+Removed micro-clusters: 54 label: 0 category: normal
+Removed micro-clusters: 55 label: 0 category: normal
+Removed micro-clusters: 55 label: 0 category: normal
+Removed micro-clusters: 56 label: 0 category: normal
+Removed micro-clusters: 58 label: 0 category: normal
+Removed micro-clusters: 61 label: 0 category: normal
+Removed micro-clusters: 63 label: 0 category: normal
+Removed micro-clusters: 65 label: 0 category: normal
+Removed micro-clusters: 66 label: 0 category: normal
+Removed micro-clusters: 67 label: 0 category: normal
+Removed micro-clusters: 71 label: 0 category: normal
+Removed micro-clusters: 71 label: 0 category: normal
+Removed micro-clusters: 71 label: 0 category: normal
+Removed micro-clusters: 75 label: 0 category: normal
+Removed micro-clusters: 79 label: 0 category: normal
+Removed micro-clusters: 79 label: 0 category: normal
+Removed micro-clusters: 80 label: 0 category: normal
+Removed micro-clusters: 81 label: 0 category: normal
+Removed micro-clusters: 83 label: 0 category: normal
+Removed micro-clusters: 84 label: 0 category: normal
+Removed micro-clusters: 87 label: 0 category: normal
+Removed micro-clusters: 87 label: 0 category: normal
+Removed micro-clusters: 87 label: 0 category: normal
+Removed micro-clusters: 90 label: 0 category: normal
+Removed micro-clusters: 91 label: 0 category: normal
+Removed micro-clusters: 92 label: 0 category: normal
+Removed micro-clusters: 92 label: 0 category: normal
+Removed micro-clusters: 96 label: 0 category: normal
+Removed micro-clusters: 97 label: 0 category: normal
+Removed micro-clusters: 98 label: 0 category: normal
+Removed micro-clusters: 98 label: 0 category: normal
+Removed micro-clusters: 101 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 105 label: 0 category: normal
+Removed micro-clusters: 105 label: 0 category: normal
+Removed micro-clusters: 105 label: 0 category: normal
+Removed micro-clusters: 105 label: 0 category: normal
+Removed micro-clusters: 105 label: 0 category: normal
+Removed micro-clusters: 106 label: 0 category: normal
+Removed micro-clusters: 106 label: 0 category: normal
+Removed micro-clusters: 109 label: 0 category: normal
+Removed micro-clusters: 116 label: 0 category: normal
+Removed micro-clusters: 116 label: 0 category: normal
+Removed micro-clusters: 116 label: 0 category: normal
+Removed micro-clusters: 117 label: 0 category: normal
+Removed micro-clusters: 118 label: 0 category: normal
+Removed micro-clusters: 121 label: 0 category: normal
+Removed micro-clusters: 121 label: 0 category: normal
+Removed micro-clusters: 121 label: 0 category: normal
+Removed micro-clusters: 121 label: 0 category: normal
+Removed micro-clusters: 126 label: 0 category: normal
+Removed micro-clusters: 126 label: 0 category: normal
+Removed micro-clusters: 126 label: 0 category: normal
+Removed micro-clusters: 126 label: 0 category: normal
+Removed micro-clusters: 128 label: 0 category: normal
+Removed micro-clusters: 130 label: 0 category: normal
+Removed micro-clusters: 132 label: 0 category: normal
+Removed micro-clusters: 132 label: 0 category: normal
+Removed micro-clusters: 132 label: 0 category: normal
+Removed micro-clusters: 134 label: 0 category: normal
+Removed micro-clusters: 138 label: 0 category: normal
+Removed micro-clusters: 138 label: 0 category: normal
+Removed micro-clusters: 140 label: 0 category: normal
+Removed micro-clusters: 143 label: 0 category: normal
+Removed micro-clusters: 143 label: 0 category: normal
+Removed micro-clusters: 143 label: 0 category: normal
+Removed micro-clusters: 144 label: 0 category: normal
+Removed micro-clusters: 144 label: 0 category: normal
+Removed micro-clusters: 145 label: 0 category: normal
+Removed micro-clusters: 148 label: 0 category: normal
+Removed micro-clusters: 148 label: 0 category: normal
+Removed micro-clusters: 149 label: 0 category: normal
+Removed micro-clusters: 150 label: 0 category: normal
+Removed micro-clusters: 150 label: 0 category: normal
+Removed micro-clusters: 150 label: 0 category: normal
+Removed micro-clusters: 151 label: 0 category: normal
+Removed micro-clusters: 151 label: 0 category: normal
+Removed micro-clusters: 151 label: 0 category: normal
+Removed micro-clusters: 154 label: 0 category: normal
+Removed micro-clusters: 156 label: 0 category: normal
+Removed micro-clusters: 157 label: 0 category: normal
+Removed micro-clusters: 158 label: 0 category: normal
+Removed micro-clusters: 160 label: 0 category: normal
+Removed micro-clusters: 161 label: 0 category: normal
+Removed micro-clusters: 162 label: 0 category: normal
+Removed micro-clusters: 166 label: 0 category: normal
+Removed micro-clusters: 166 label: 0 category: normal
+Removed micro-clusters: 168 label: 0 category: normal
+Removed micro-clusters: 168 label: 0 category: normal
+Removed micro-clusters: 170 label: 0 category: normal
+Removed micro-clusters: 173 label: 0 category: normal
+Removed micro-clusters: 179 label: 0 category: normal
+Removed micro-clusters: 179 label: 0 category: normal
+Removed micro-clusters: 180 label: 0 category: normal
+Removed micro-clusters: 182 label: 0 category: normal
+Removed micro-clusters: 183 label: 0 category: normal
+Removed micro-clusters: 183 label: 0 category: normal
+Removed micro-clusters: 184 label: 0 category: normal
+Removed micro-clusters: 184 label: 0 category: normal
+Removed micro-clusters: 185 label: 0 category: normal
+Removed micro-clusters: 186 label: 0 category: normal
+Removed micro-clusters: 189 label: 0 category: normal
+Removed micro-clusters: 190 label: 0 category: normal
+Removed micro-clusters: 190 label: 0 category: normal
+Removed micro-clusters: 192 label: 0 category: normal
+Removed micro-clusters: 193 label: 0 category: normal
+Removed micro-clusters: 193 label: 0 category: normal
+Removed micro-clusters: 193 label: 0 category: normal
+Removed micro-clusters: 193 label: 0 category: normal
+Removed micro-clusters: 198 label: 0 category: normal
+Removed micro-clusters: 198 label: 0 category: normal
+Removed micro-clusters: 198 label: 0 category: normal
+Removed micro-clusters: 200 label: 0 category: normal
+Removed micro-clusters: 201 label: 0 category: normal
+Removed micro-clusters: 201 label: 0 category: normal
+Removed micro-clusters: 205 label: 0 category: normal
+Removed micro-clusters: 206 label: 0 category: normal
+Removed micro-clusters: 208 label: 0 category: normal
+Removed micro-clusters: 208 label: 0 category: normal
+Removed micro-clusters: 208 label: 0 category: normal
+Removed micro-clusters: 208 label: 0 category: normal
+Removed micro-clusters: 212 label: 0 category: normal
+Removed micro-clusters: 216 label: 0 category: normal
+Removed micro-clusters: 216 label: 0 category: normal
+Removed micro-clusters: 219 label: 0 category: normal
+Removed micro-clusters: 224 label: 0 category: normal
+Removed micro-clusters: 226 label: 0 category: normal
+Removed micro-clusters: 227 label: 0 category: normal
+Removed micro-clusters: 227 label: 0 category: normal
+Removed micro-clusters: 234 label: 0 category: normal
+Removed micro-clusters: 234 label: 0 category: normal
+Removed micro-clusters: 235 label: 0 category: normal
+Removed micro-clusters: 235 label: 0 category: normal
+Removed micro-clusters: 236 label: 0 category: normal
+Removed micro-clusters: 238 label: 0 category: normal
+Removed micro-clusters: 238 label: 0 category: normal
+Removed micro-clusters: 238 label: 0 category: normal
+Removed micro-clusters: 241 label: 0 category: normal
+Removed micro-clusters: 242 label: 0 category: normal
+Removed micro-clusters: 242 label: 0 category: normal
+Removed micro-clusters: 245 label: 0 category: normal
+Removed micro-clusters: 245 label: 0 category: normal
+Removed micro-clusters: 248 label: 0 category: normal
+Removed micro-clusters: 250 label: 0 category: normal
+Removed micro-clusters: 250 label: 0 category: normal
+Removed micro-clusters: 250 label: 0 category: normal
+Removed micro-clusters: 252 label: 0 category: normal
+Removed micro-clusters: 254 label: 0 category: normal
+Removed micro-clusters: 254 label: 0 category: normal
+Removed micro-clusters: 255 label: 0 category: normal
+Removed micro-clusters: 255 label: 0 category: normal
+Removed micro-clusters: 255 label: 0 category: normal
+Removed micro-clusters: 259 label: 0 category: normal
+Removed micro-clusters: 259 label: 0 category: normal
+Removed micro-clusters: 259 label: 0 category: normal
+Removed micro-clusters: 259 label: 0 category: normal
+Removed micro-clusters: 259 label: 0 category: normal
+Removed micro-clusters: 260 label: 0 category: normal
+Removed micro-clusters: 260 label: 0 category: normal
+Removed micro-clusters: 263 label: 0 category: normal
+Removed micro-clusters: 263 label: 0 category: normal
+Removed micro-clusters: 263 label: 0 category: normal
+Removed micro-clusters: 264 label: 0 category: normal
+Removed micro-clusters: 264 label: 0 category: normal
+Removed micro-clusters: 264 label: 0 category: normal
+Removed micro-clusters: 265 label: 0 category: normal
+Removed micro-clusters: 267 label: 0 category: normal
+Removed micro-clusters: 268 label: 0 category: normal
+Removed micro-clusters: 269 label: 0 category: normal
+Removed micro-clusters: 269 label: 0 category: normal
+Removed micro-clusters: 269 label: 0 category: normal
+Removed micro-clusters: 269 label: 0 category: normal
+Removed micro-clusters: 271 label: 0 category: normal
+Removed micro-clusters: 273 label: 0 category: normal
+Removed micro-clusters: 275 label: 0 category: normal
+Removed micro-clusters: 275 label: 0 category: normal
+Removed micro-clusters: 277 label: 0 category: normal
+Removed micro-clusters: 277 label: 0 category: normal
+Removed micro-clusters: 278 label: 0 category: normal
+Removed micro-clusters: 279 label: 0 category: normal
+Removed micro-clusters: 279 label: 0 category: normal
+Removed micro-clusters: 279 label: 0 category: normal
+Removed micro-clusters: 279 label: 0 category: normal
+Timestamp: 2000 - removed micro-clusters: 229 - model's size [0]:279
+Timestamp: 2000 - removed micro-clusters: 229 - model's size [NP3]:1
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 3 label: 1 category: normal
+Removed micro-clusters: 5 label: 1 category: normal
+Removed micro-clusters: 5 label: 1 category: normal
+Removed micro-clusters: 6 label: 1 category: normal
+Removed micro-clusters: 9 label: 1 category: normal
+Removed micro-clusters: 10 label: 1 category: normal
+Removed micro-clusters: 10 label: 1 category: normal
+Removed micro-clusters: 15 label: 1 category: normal
+Removed micro-clusters: 18 label: 1 category: normal
+Removed micro-clusters: 19 label: 1 category: normal
+Removed micro-clusters: 19 label: 1 category: normal
+Removed micro-clusters: 22 label: 1 category: normal
+Removed micro-clusters: 22 label: 1 category: normal
+Removed micro-clusters: 22 label: 1 category: normal
+Removed micro-clusters: 23 label: 1 category: normal
+Removed micro-clusters: 29 label: 1 category: normal
+Removed micro-clusters: 30 label: 1 category: normal
+Removed micro-clusters: 31 label: 1 category: normal
+Removed micro-clusters: 31 label: 1 category: normal
+Removed micro-clusters: 31 label: 1 category: normal
+Removed micro-clusters: 32 label: 1 category: normal
+Removed micro-clusters: 34 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Removed micro-clusters: 40 label: 1 category: normal
+Removed micro-clusters: 41 label: 1 category: normal
+Removed micro-clusters: 45 label: 1 category: normal
+Removed micro-clusters: 45 label: 1 category: normal
+Removed micro-clusters: 46 label: 1 category: normal
+Removed micro-clusters: 49 label: 1 category: normal
+Removed micro-clusters: 54 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 60 label: 1 category: normal
+Removed micro-clusters: 60 label: 1 category: normal
+Removed micro-clusters: 61 label: 1 category: normal
+Removed micro-clusters: 61 label: 1 category: normal
+Removed micro-clusters: 62 label: 1 category: normal
+Removed micro-clusters: 65 label: 1 category: normal
+Removed micro-clusters: 66 label: 1 category: normal
+Removed micro-clusters: 67 label: 1 category: normal
+Removed micro-clusters: 69 label: 1 category: normal
+Removed micro-clusters: 73 label: 1 category: normal
+Removed micro-clusters: 73 label: 1 category: normal
+Removed micro-clusters: 73 label: 1 category: normal
+Removed micro-clusters: 74 label: 1 category: normal
+Removed micro-clusters: 74 label: 1 category: normal
+Removed micro-clusters: 75 label: 1 category: normal
+Removed micro-clusters: 90 label: 1 category: normal
+Removed micro-clusters: 91 label: 1 category: normal
+Removed micro-clusters: 91 label: 1 category: normal
+Removed micro-clusters: 93 label: 1 category: normal
+Removed micro-clusters: 97 label: 1 category: normal
+Removed micro-clusters: 98 label: 1 category: normal
+Removed micro-clusters: 100 label: 1 category: normal
+Removed micro-clusters: 101 label: 1 category: normal
+Removed micro-clusters: 102 label: 1 category: normal
+Removed micro-clusters: 103 label: 1 category: normal
+Removed micro-clusters: 106 label: 1 category: normal
+Removed micro-clusters: 109 label: 1 category: normal
+Removed micro-clusters: 110 label: 1 category: normal
+Removed micro-clusters: 115 label: 1 category: normal
+Removed micro-clusters: 115 label: 1 category: normal
+Removed micro-clusters: 116 label: 1 category: normal
+Removed micro-clusters: 121 label: 1 category: normal
+Removed micro-clusters: 123 label: 1 category: normal
+Removed micro-clusters: 133 label: 1 category: normal
+Removed micro-clusters: 137 label: 1 category: normal
+Removed micro-clusters: 142 label: 1 category: normal
+Removed micro-clusters: 145 label: 1 category: normal
+Removed micro-clusters: 145 label: 1 category: normal
+Removed micro-clusters: 145 label: 1 category: normal
+Removed micro-clusters: 152 label: 1 category: normal
+Removed micro-clusters: 158 label: 1 category: normal
+Removed micro-clusters: 161 label: 1 category: normal
+Removed micro-clusters: 161 label: 1 category: normal
+Removed micro-clusters: 164 label: 1 category: normal
+Removed micro-clusters: 164 label: 1 category: normal
+Removed micro-clusters: 174 label: 1 category: normal
+Removed micro-clusters: 174 label: 1 category: normal
+Removed micro-clusters: 175 label: 1 category: normal
+Removed micro-clusters: 176 label: 1 category: normal
+Removed micro-clusters: 180 label: 1 category: normal
+Removed micro-clusters: 180 label: 1 category: normal
+Removed micro-clusters: 181 label: 1 category: normal
+Removed micro-clusters: 184 label: 1 category: normal
+Removed micro-clusters: 189 label: 1 category: normal
+Removed micro-clusters: 192 label: 1 category: normal
+Removed micro-clusters: 192 label: 1 category: normal
+Timestamp: 2000 - removed micro-clusters: 320 - model's size [1]:196
+Timestamp: 2000 - removed micro-clusters: 320 - model's size [NP2]:1
+Removed micro-clusters: 0 label: 2 category: normal
+Removed micro-clusters: 0 label: 2 category: normal
+Removed micro-clusters: 0 label: 2 category: normal
+Removed micro-clusters: 1 label: 2 category: normal
+Removed micro-clusters: 3 label: 2 category: normal
+Removed micro-clusters: 6 label: 2 category: normal
+Removed micro-clusters: 6 label: 2 category: normal
+Removed micro-clusters: 8 label: 2 category: normal
+Removed micro-clusters: 8 label: 2 category: normal
+Removed micro-clusters: 8 label: 2 category: normal
+Removed micro-clusters: 19 label: 2 category: normal
+Removed micro-clusters: 20 label: 2 category: normal
+Removed micro-clusters: 26 label: 2 category: normal
+Removed micro-clusters: 26 label: 2 category: normal
+Removed micro-clusters: 28 label: 2 category: normal
+Removed micro-clusters: 33 label: 2 category: normal
+Removed micro-clusters: 34 label: 2 category: normal
+Removed micro-clusters: 34 label: 2 category: normal
+Removed micro-clusters: 35 label: 2 category: normal
+Removed micro-clusters: 36 label: 2 category: normal
+Removed micro-clusters: 36 label: 2 category: normal
+Removed micro-clusters: 38 label: 2 category: normal
+Removed micro-clusters: 42 label: 2 category: normal
+Removed micro-clusters: 42 label: 2 category: normal
+Removed micro-clusters: 44 label: 2 category: normal
+Removed micro-clusters: 45 label: 2 category: normal
+Removed micro-clusters: 47 label: 2 category: normal
+Removed micro-clusters: 48 label: 2 category: normal
+Removed micro-clusters: 51 label: 2 category: normal
+Removed micro-clusters: 51 label: 2 category: normal
+Removed micro-clusters: 53 label: 2 category: normal
+Removed micro-clusters: 55 label: 2 category: normal
+Removed micro-clusters: 57 label: 2 category: normal
+Removed micro-clusters: 58 label: 2 category: normal
+Removed micro-clusters: 61 label: 2 category: normal
+Removed micro-clusters: 61 label: 2 category: normal
+Removed micro-clusters: 70 label: 2 category: normal
+Removed micro-clusters: 70 label: 2 category: normal
+Removed micro-clusters: 70 label: 2 category: normal
+Removed micro-clusters: 72 label: 2 category: normal
+Removed micro-clusters: 73 label: 2 category: normal
+Removed micro-clusters: 77 label: 2 category: normal
+Removed micro-clusters: 77 label: 2 category: normal
+Removed micro-clusters: 77 label: 2 category: normal
+Removed micro-clusters: 80 label: 2 category: normal
+Removed micro-clusters: 81 label: 2 category: normal
+Removed micro-clusters: 82 label: 2 category: normal
+Removed micro-clusters: 84 label: 2 category: normal
+Removed micro-clusters: 84 label: 2 category: normal
+Removed micro-clusters: 84 label: 2 category: normal
+Removed micro-clusters: 84 label: 2 category: normal
+Removed micro-clusters: 85 label: 2 category: normal
+Removed micro-clusters: 86 label: 2 category: normal
+Removed micro-clusters: 89 label: 2 category: normal
+Removed micro-clusters: 91 label: 2 category: normal
+Removed micro-clusters: 91 label: 2 category: normal
+Removed micro-clusters: 99 label: 2 category: normal
+Removed micro-clusters: 103 label: 2 category: normal
+Removed micro-clusters: 104 label: 2 category: normal
+Removed micro-clusters: 108 label: 2 category: normal
+Removed micro-clusters: 108 label: 2 category: normal
+Removed micro-clusters: 108 label: 2 category: normal
+Removed micro-clusters: 108 label: 2 category: normal
+Removed micro-clusters: 111 label: 2 category: normal
+Removed micro-clusters: 113 label: 2 category: normal
+Removed micro-clusters: 114 label: 2 category: normal
+Removed micro-clusters: 118 label: 2 category: normal
+Removed micro-clusters: 118 label: 2 category: normal
+Removed micro-clusters: 120 label: 2 category: normal
+Removed micro-clusters: 121 label: 2 category: normal
+Removed micro-clusters: 121 label: 2 category: normal
+Removed micro-clusters: 122 label: 2 category: normal
+Removed micro-clusters: 126 label: 2 category: normal
+Removed micro-clusters: 129 label: 2 category: normal
+Removed micro-clusters: 133 label: 2 category: normal
+Removed micro-clusters: 135 label: 2 category: normal
+Removed micro-clusters: 141 label: 2 category: normal
+Removed micro-clusters: 141 label: 2 category: normal
+Removed micro-clusters: 141 label: 2 category: normal
+Removed micro-clusters: 143 label: 2 category: normal
+Removed micro-clusters: 143 label: 2 category: normal
+Removed micro-clusters: 147 label: 2 category: normal
+Removed micro-clusters: 149 label: 2 category: normal
+Removed micro-clusters: 150 label: 2 category: normal
+Removed micro-clusters: 154 label: 2 category: normal
+Removed micro-clusters: 156 label: 2 category: normal
+Removed micro-clusters: 160 label: 2 category: normal
+Removed micro-clusters: 160 label: 2 category: normal
+Removed micro-clusters: 160 label: 2 category: normal
+Removed micro-clusters: 160 label: 2 category: normal
+Removed micro-clusters: 161 label: 2 category: normal
+Removed micro-clusters: 174 label: 2 category: normal
+Removed micro-clusters: 179 label: 2 category: normal
+Removed micro-clusters: 183 label: 2 category: normal
+Removed micro-clusters: 186 label: 2 category: normal
+Removed micro-clusters: 190 label: 2 category: normal
+Removed micro-clusters: 195 label: 2 category: normal
+Removed micro-clusters: 208 label: 2 category: normal
+Removed micro-clusters: 216 label: 2 category: normal
+Removed micro-clusters: 221 label: 2 category: normal
+Removed micro-clusters: 223 label: 2 category: normal
+Removed micro-clusters: 229 label: 2 category: normal
+Removed micro-clusters: 229 label: 2 category: normal
+Removed micro-clusters: 229 label: 2 category: normal
+Removed micro-clusters: 229 label: 2 category: normal
+Removed micro-clusters: 231 label: 2 category: normal
+Removed micro-clusters: 231 label: 2 category: normal
+Removed micro-clusters: 239 label: 2 category: normal
+Removed micro-clusters: 239 label: 2 category: normal
+Removed micro-clusters: 239 label: 2 category: normal
+Removed micro-clusters: 240 label: 2 category: normal
+Removed micro-clusters: 241 label: 2 category: normal
+Removed micro-clusters: 246 label: 2 category: normal
+Removed micro-clusters: 255 label: 2 category: normal
+Removed micro-clusters: 261 label: 2 category: normal
+Removed micro-clusters: 268 label: 2 category: normal
+Removed micro-clusters: 268 label: 2 category: normal
+Removed micro-clusters: 269 label: 2 category: normal
+Removed micro-clusters: 269 label: 2 category: normal
+Removed micro-clusters: 269 label: 2 category: normal
+Removed micro-clusters: 271 label: 2 category: normal
+Removed micro-clusters: 271 label: 2 category: normal
+Removed micro-clusters: 271 label: 2 category: normal
+Removed micro-clusters: 271 label: 2 category: normal
+Removed micro-clusters: 271 label: 2 category: normal
+Removed micro-clusters: 278 label: 2 category: normal
+Removed micro-clusters: 278 label: 2 category: normal
+Removed micro-clusters: 279 label: 2 category: normal
+Removed micro-clusters: 279 label: 2 category: normal
+Removed micro-clusters: 281 label: 2 category: normal
+Removed micro-clusters: 285 label: 2 category: normal
+Removed micro-clusters: 285 label: 2 category: normal
+Removed micro-clusters: 294 label: 2 category: normal
+Removed micro-clusters: 294 label: 2 category: normal
+Removed micro-clusters: 294 label: 2 category: normal
+Removed micro-clusters: 297 label: 2 category: normal
+Removed micro-clusters: 297 label: 2 category: normal
+Removed micro-clusters: 297 label: 2 category: normal
+Removed micro-clusters: 298 label: 2 category: normal
+Removed micro-clusters: 301 label: 2 category: normal
+Removed micro-clusters: 303 label: 2 category: normal
+Removed micro-clusters: 306 label: 2 category: normal
+Removed micro-clusters: 308 label: 2 category: normal
+Removed micro-clusters: 315 label: 2 category: normal
+Removed micro-clusters: 317 label: 2 category: normal
+Removed micro-clusters: 317 label: 2 category: normal
+Removed micro-clusters: 317 label: 2 category: normal
+Removed micro-clusters: 318 label: 2 category: normal
+Removed micro-clusters: 323 label: 2 category: normal
+Removed micro-clusters: 324 label: 2 category: normal
+Removed micro-clusters: 324 label: 2 category: normal
+Removed micro-clusters: 326 label: 2 category: normal
+Timestamp: 2000 - removed micro-clusters: 472 - model's size [2]:330
+Timestamp: 2000 - removed micro-clusters: 472 - model's size [NP5]:1
+Removed micro-clusters: 0 label: 3 category: normal
+Removed micro-clusters: 2 label: 3 category: normal
+Removed micro-clusters: 3 label: 3 category: normal
+Removed micro-clusters: 5 label: 3 category: normal
+Removed micro-clusters: 5 label: 3 category: normal
+Removed micro-clusters: 5 label: 3 category: normal
+Removed micro-clusters: 5 label: 3 category: normal
+Removed micro-clusters: 5 label: 3 category: normal
+Removed micro-clusters: 6 label: 3 category: normal
+Removed micro-clusters: 6 label: 3 category: normal
+Removed micro-clusters: 9 label: 3 category: normal
+Removed micro-clusters: 14 label: 3 category: normal
+Removed micro-clusters: 14 label: 3 category: normal
+Removed micro-clusters: 15 label: 3 category: normal
+Removed micro-clusters: 16 label: 3 category: normal
+Removed micro-clusters: 16 label: 3 category: normal
+Removed micro-clusters: 16 label: 3 category: normal
+Removed micro-clusters: 18 label: 3 category: normal
+Removed micro-clusters: 18 label: 3 category: normal
+Removed micro-clusters: 21 label: 3 category: normal
+Removed micro-clusters: 24 label: 3 category: normal
+Removed micro-clusters: 25 label: 3 category: normal
+Removed micro-clusters: 26 label: 3 category: normal
+Removed micro-clusters: 26 label: 3 category: normal
+Removed micro-clusters: 27 label: 3 category: normal
+Removed micro-clusters: 32 label: 3 category: normal
+Removed micro-clusters: 32 label: 3 category: normal
+Removed micro-clusters: 36 label: 3 category: normal
+Removed micro-clusters: 37 label: 3 category: normal
+Removed micro-clusters: 37 label: 3 category: normal
+Removed micro-clusters: 37 label: 3 category: normal
+Removed micro-clusters: 38 label: 3 category: normal
+Removed micro-clusters: 41 label: 3 category: normal
+Removed micro-clusters: 41 label: 3 category: normal
+Removed micro-clusters: 43 label: 3 category: normal
+Removed micro-clusters: 43 label: 3 category: normal
+Removed micro-clusters: 43 label: 3 category: normal
+Removed micro-clusters: 45 label: 3 category: normal
+Removed micro-clusters: 53 label: 3 category: normal
+Removed micro-clusters: 53 label: 3 category: normal
+Removed micro-clusters: 58 label: 3 category: normal
+Removed micro-clusters: 60 label: 3 category: normal
+Removed micro-clusters: 64 label: 3 category: normal
+Removed micro-clusters: 64 label: 3 category: normal
+Removed micro-clusters: 64 label: 3 category: normal
+Removed micro-clusters: 65 label: 3 category: normal
+Removed micro-clusters: 70 label: 3 category: normal
+Removed micro-clusters: 70 label: 3 category: normal
+Removed micro-clusters: 71 label: 3 category: normal
+Removed micro-clusters: 75 label: 3 category: normal
+Removed micro-clusters: 75 label: 3 category: normal
+Removed micro-clusters: 77 label: 3 category: normal
+Removed micro-clusters: 87 label: 3 category: normal
+Removed micro-clusters: 90 label: 3 category: normal
+Removed micro-clusters: 90 label: 3 category: normal
+Removed micro-clusters: 90 label: 3 category: normal
+Removed micro-clusters: 95 label: 3 category: normal
+Removed micro-clusters: 95 label: 3 category: normal
+Removed micro-clusters: 96 label: 3 category: normal
+Removed micro-clusters: 96 label: 3 category: normal
+Removed micro-clusters: 97 label: 3 category: normal
+Removed micro-clusters: 97 label: 3 category: normal
+Removed micro-clusters: 99 label: 3 category: normal
+Removed micro-clusters: 99 label: 3 category: normal
+Removed micro-clusters: 99 label: 3 category: normal
+Removed micro-clusters: 100 label: 3 category: normal
+Removed micro-clusters: 101 label: 3 category: normal
+Removed micro-clusters: 105 label: 3 category: normal
+Removed micro-clusters: 105 label: 3 category: normal
+Removed micro-clusters: 106 label: 3 category: normal
+Removed micro-clusters: 108 label: 3 category: normal
+Removed micro-clusters: 109 label: 3 category: normal
+Removed micro-clusters: 109 label: 3 category: normal
+Removed micro-clusters: 110 label: 3 category: normal
+Removed micro-clusters: 110 label: 3 category: normal
+Removed micro-clusters: 111 label: 3 category: normal
+Removed micro-clusters: 114 label: 3 category: normal
+Removed micro-clusters: 118 label: 3 category: normal
+Removed micro-clusters: 119 label: 3 category: normal
+Removed micro-clusters: 120 label: 3 category: normal
+Removed micro-clusters: 121 label: 3 category: normal
+Removed micro-clusters: 125 label: 3 category: normal
+Removed micro-clusters: 129 label: 3 category: normal
+Removed micro-clusters: 140 label: 3 category: normal
+Removed micro-clusters: 141 label: 3 category: normal
+Removed micro-clusters: 141 label: 3 category: normal
+Removed micro-clusters: 141 label: 3 category: normal
+Removed micro-clusters: 142 label: 3 category: normal
+Removed micro-clusters: 146 label: 3 category: normal
+Removed micro-clusters: 146 label: 3 category: normal
+Removed micro-clusters: 147 label: 3 category: normal
+Removed micro-clusters: 148 label: 3 category: normal
+Removed micro-clusters: 148 label: 3 category: normal
+Removed micro-clusters: 150 label: 3 category: normal
+Removed micro-clusters: 150 label: 3 category: normal
+Removed micro-clusters: 150 label: 3 category: normal
+Removed micro-clusters: 151 label: 3 category: normal
+Removed micro-clusters: 152 label: 3 category: normal
+Removed micro-clusters: 154 label: 3 category: normal
+Removed micro-clusters: 154 label: 3 category: normal
+Removed micro-clusters: 154 label: 3 category: normal
+Removed micro-clusters: 158 label: 3 category: normal
+Removed micro-clusters: 162 label: 3 category: normal
+Removed micro-clusters: 162 label: 3 category: normal
+Removed micro-clusters: 165 label: 3 category: normal
+Removed micro-clusters: 165 label: 3 category: normal
+Removed micro-clusters: 166 label: 3 category: normal
+Removed micro-clusters: 166 label: 3 category: normal
+Removed micro-clusters: 167 label: 3 category: normal
+Removed micro-clusters: 167 label: 3 category: normal
+Removed micro-clusters: 170 label: 3 category: normal
+Removed micro-clusters: 171 label: 3 category: normal
+Removed micro-clusters: 174 label: 3 category: normal
+Removed micro-clusters: 174 label: 3 category: normal
+Removed micro-clusters: 177 label: 3 category: normal
+Removed micro-clusters: 178 label: 3 category: normal
+Removed micro-clusters: 178 label: 3 category: normal
+Removed micro-clusters: 178 label: 3 category: normal
+Removed micro-clusters: 178 label: 3 category: normal
+Removed micro-clusters: 181 label: 3 category: normal
+Removed micro-clusters: 184 label: 3 category: normal
+Removed micro-clusters: 185 label: 3 category: normal
+Removed micro-clusters: 186 label: 3 category: normal
+Removed micro-clusters: 186 label: 3 category: normal
+Removed micro-clusters: 188 label: 3 category: normal
+Removed micro-clusters: 188 label: 3 category: normal
+Removed micro-clusters: 191 label: 3 category: normal
+Removed micro-clusters: 195 label: 3 category: normal
+Removed micro-clusters: 195 label: 3 category: normal
+Removed micro-clusters: 195 label: 3 category: normal
+Removed micro-clusters: 195 label: 3 category: normal
+Removed micro-clusters: 198 label: 3 category: normal
+Removed micro-clusters: 199 label: 3 category: normal
+Removed micro-clusters: 200 label: 3 category: normal
+Removed micro-clusters: 205 label: 3 category: normal
+Removed micro-clusters: 207 label: 3 category: normal
+Removed micro-clusters: 211 label: 3 category: normal
+Removed micro-clusters: 216 label: 3 category: normal
+Removed micro-clusters: 220 label: 3 category: normal
+Removed micro-clusters: 222 label: 3 category: normal
+Removed micro-clusters: 223 label: 3 category: normal
+Removed micro-clusters: 223 label: 3 category: normal
+Removed micro-clusters: 225 label: 3 category: normal
+Removed micro-clusters: 226 label: 3 category: normal
+Removed micro-clusters: 226 label: 3 category: normal
+Removed micro-clusters: 231 label: 3 category: normal
+Removed micro-clusters: 231 label: 3 category: normal
+Removed micro-clusters: 231 label: 3 category: normal
+Removed micro-clusters: 231 label: 3 category: normal
+Removed micro-clusters: 231 label: 3 category: normal
+Removed micro-clusters: 231 label: 3 category: normal
+Removed micro-clusters: 231 label: 3 category: normal
+Removed micro-clusters: 232 label: 3 category: normal
+Removed micro-clusters: 232 label: 3 category: normal
+Removed micro-clusters: 232 label: 3 category: normal
+Removed micro-clusters: 235 label: 3 category: normal
+Removed micro-clusters: 235 label: 3 category: normal
+Removed micro-clusters: 235 label: 3 category: normal
+Removed micro-clusters: 240 label: 3 category: normal
+Removed micro-clusters: 241 label: 3 category: normal
+Removed micro-clusters: 241 label: 3 category: normal
+Removed micro-clusters: 242 label: 3 category: normal
+Removed micro-clusters: 243 label: 3 category: normal
+Removed micro-clusters: 244 label: 3 category: normal
+Removed micro-clusters: 244 label: 3 category: normal
+Removed micro-clusters: 248 label: 3 category: normal
+Removed micro-clusters: 250 label: 3 category: normal
+Removed micro-clusters: 250 label: 3 category: normal
+Removed micro-clusters: 256 label: 3 category: normal
+Removed micro-clusters: 258 label: 3 category: normal
+Timestamp: 2000 - removed micro-clusters: 642 - model's size [3]:259
+Timestamp: 2000 - removed micro-clusters: 642 - model's size [NP4]:1
+Removed micro-clusters: 2 label: 4 category: normal
+Removed micro-clusters: 6 label: 4 category: normal
+Removed micro-clusters: 6 label: 4 category: normal
+Removed micro-clusters: 7 label: 4 category: normal
+Removed micro-clusters: 9 label: 4 category: normal
+Removed micro-clusters: 9 label: 4 category: normal
+Removed micro-clusters: 9 label: 4 category: normal
+Removed micro-clusters: 12 label: 4 category: normal
+Removed micro-clusters: 13 label: 4 category: normal
+Removed micro-clusters: 17 label: 4 category: normal
+Removed micro-clusters: 17 label: 4 category: normal
+Removed micro-clusters: 17 label: 4 category: normal
+Removed micro-clusters: 18 label: 4 category: normal
+Removed micro-clusters: 22 label: 4 category: normal
+Removed micro-clusters: 22 label: 4 category: normal
+Removed micro-clusters: 23 label: 4 category: normal
+Removed micro-clusters: 23 label: 4 category: normal
+Removed micro-clusters: 23 label: 4 category: normal
+Removed micro-clusters: 24 label: 4 category: normal
+Removed micro-clusters: 25 label: 4 category: normal
+Removed micro-clusters: 25 label: 4 category: normal
+Removed micro-clusters: 26 label: 4 category: normal
+Removed micro-clusters: 28 label: 4 category: normal
+Removed micro-clusters: 28 label: 4 category: normal
+Removed micro-clusters: 29 label: 4 category: normal
+Removed micro-clusters: 30 label: 4 category: normal
+Removed micro-clusters: 33 label: 4 category: normal
+Removed micro-clusters: 33 label: 4 category: normal
+Removed micro-clusters: 34 label: 4 category: normal
+Removed micro-clusters: 36 label: 4 category: normal
+Removed micro-clusters: 36 label: 4 category: normal
+Removed micro-clusters: 37 label: 4 category: normal
+Removed micro-clusters: 37 label: 4 category: normal
+Removed micro-clusters: 38 label: 4 category: normal
+Removed micro-clusters: 39 label: 4 category: normal
+Removed micro-clusters: 41 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 47 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Removed micro-clusters: 53 label: 4 category: normal
+Removed micro-clusters: 53 label: 4 category: normal
+Removed micro-clusters: 53 label: 4 category: normal
+Removed micro-clusters: 56 label: 4 category: normal
+Removed micro-clusters: 57 label: 4 category: normal
+Removed micro-clusters: 58 label: 4 category: normal
+Removed micro-clusters: 58 label: 4 category: normal
+Removed micro-clusters: 59 label: 4 category: normal
+Removed micro-clusters: 60 label: 4 category: normal
+Removed micro-clusters: 60 label: 4 category: normal
+Removed micro-clusters: 60 label: 4 category: normal
+Removed micro-clusters: 61 label: 4 category: normal
+Removed micro-clusters: 64 label: 4 category: normal
+Removed micro-clusters: 66 label: 4 category: normal
+Removed micro-clusters: 66 label: 4 category: normal
+Removed micro-clusters: 66 label: 4 category: normal
+Removed micro-clusters: 67 label: 4 category: normal
+Removed micro-clusters: 68 label: 4 category: normal
+Removed micro-clusters: 73 label: 4 category: normal
+Removed micro-clusters: 74 label: 4 category: normal
+Removed micro-clusters: 76 label: 4 category: normal
+Removed micro-clusters: 77 label: 4 category: normal
+Removed micro-clusters: 77 label: 4 category: normal
+Removed micro-clusters: 78 label: 4 category: normal
+Removed micro-clusters: 78 label: 4 category: normal
+Removed micro-clusters: 78 label: 4 category: normal
+Removed micro-clusters: 78 label: 4 category: normal
+Removed micro-clusters: 80 label: 4 category: normal
+Removed micro-clusters: 81 label: 4 category: normal
+Removed micro-clusters: 81 label: 4 category: normal
+Removed micro-clusters: 83 label: 4 category: normal
+Removed micro-clusters: 83 label: 4 category: normal
+Removed micro-clusters: 84 label: 4 category: normal
+Removed micro-clusters: 84 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 88 label: 4 category: normal
+Removed micro-clusters: 88 label: 4 category: normal
+Removed micro-clusters: 88 label: 4 category: normal
+Removed micro-clusters: 92 label: 4 category: normal
+Removed micro-clusters: 92 label: 4 category: normal
+Removed micro-clusters: 92 label: 4 category: normal
+Removed micro-clusters: 93 label: 4 category: normal
+Removed micro-clusters: 93 label: 4 category: normal
+Removed micro-clusters: 95 label: 4 category: normal
+Removed micro-clusters: 99 label: 4 category: normal
+Removed micro-clusters: 101 label: 4 category: normal
+Removed micro-clusters: 104 label: 4 category: normal
+Removed micro-clusters: 107 label: 4 category: normal
+Removed micro-clusters: 107 label: 4 category: normal
+Removed micro-clusters: 109 label: 4 category: normal
+Removed micro-clusters: 109 label: 4 category: normal
+Removed micro-clusters: 109 label: 4 category: normal
+Removed micro-clusters: 110 label: 4 category: normal
+Removed micro-clusters: 110 label: 4 category: normal
+Removed micro-clusters: 111 label: 4 category: normal
+Removed micro-clusters: 111 label: 4 category: normal
+Removed micro-clusters: 113 label: 4 category: normal
+Removed micro-clusters: 113 label: 4 category: normal
+Removed micro-clusters: 113 label: 4 category: normal
+Removed micro-clusters: 115 label: 4 category: normal
+Removed micro-clusters: 116 label: 4 category: normal
+Removed micro-clusters: 116 label: 4 category: normal
+Removed micro-clusters: 117 label: 4 category: normal
+Removed micro-clusters: 117 label: 4 category: normal
+Removed micro-clusters: 118 label: 4 category: normal
+Removed micro-clusters: 118 label: 4 category: normal
+Removed micro-clusters: 120 label: 4 category: normal
+Removed micro-clusters: 120 label: 4 category: normal
+Removed micro-clusters: 120 label: 4 category: normal
+Removed micro-clusters: 120 label: 4 category: normal
+Removed micro-clusters: 123 label: 4 category: normal
+Removed micro-clusters: 123 label: 4 category: normal
+Removed micro-clusters: 123 label: 4 category: normal
+Removed micro-clusters: 123 label: 4 category: normal
+Removed micro-clusters: 123 label: 4 category: normal
+Removed micro-clusters: 126 label: 4 category: normal
+Removed micro-clusters: 126 label: 4 category: normal
+Removed micro-clusters: 129 label: 4 category: normal
+Removed micro-clusters: 132 label: 4 category: normal
+Removed micro-clusters: 132 label: 4 category: normal
+Removed micro-clusters: 133 label: 4 category: normal
+Removed micro-clusters: 133 label: 4 category: normal
+Removed micro-clusters: 134 label: 4 category: normal
+Removed micro-clusters: 134 label: 4 category: normal
+Removed micro-clusters: 135 label: 4 category: normal
+Removed micro-clusters: 137 label: 4 category: normal
+Removed micro-clusters: 137 label: 4 category: normal
+Removed micro-clusters: 138 label: 4 category: normal
+Removed micro-clusters: 138 label: 4 category: normal
+Removed micro-clusters: 140 label: 4 category: normal
+Removed micro-clusters: 140 label: 4 category: normal
+Removed micro-clusters: 141 label: 4 category: normal
+Removed micro-clusters: 141 label: 4 category: normal
+Removed micro-clusters: 149 label: 4 category: normal
+Removed micro-clusters: 149 label: 4 category: normal
+Removed micro-clusters: 149 label: 4 category: normal
+Removed micro-clusters: 149 label: 4 category: normal
+Removed micro-clusters: 149 label: 4 category: normal
+Removed micro-clusters: 149 label: 4 category: normal
+Removed micro-clusters: 149 label: 4 category: normal
+Removed micro-clusters: 152 label: 4 category: normal
+Removed micro-clusters: 157 label: 4 category: normal
+Removed micro-clusters: 157 label: 4 category: normal
+Removed micro-clusters: 157 label: 4 category: normal
+Removed micro-clusters: 157 label: 4 category: normal
+Removed micro-clusters: 159 label: 4 category: normal
+Removed micro-clusters: 160 label: 4 category: normal
+Removed micro-clusters: 160 label: 4 category: normal
+Removed micro-clusters: 160 label: 4 category: normal
+Removed micro-clusters: 161 label: 4 category: normal
+Removed micro-clusters: 161 label: 4 category: normal
+Removed micro-clusters: 161 label: 4 category: normal
+Removed micro-clusters: 161 label: 4 category: normal
+Removed micro-clusters: 161 label: 4 category: normal
+Removed micro-clusters: 161 label: 4 category: normal
+Removed micro-clusters: 164 label: 4 category: normal
+Removed micro-clusters: 164 label: 4 category: normal
+Removed micro-clusters: 165 label: 4 category: normal
+Removed micro-clusters: 168 label: 4 category: normal
+Removed micro-clusters: 168 label: 4 category: normal
+Removed micro-clusters: 168 label: 4 category: normal
+Removed micro-clusters: 170 label: 4 category: normal
+Removed micro-clusters: 171 label: 4 category: normal
+Removed micro-clusters: 171 label: 4 category: normal
+Removed micro-clusters: 171 label: 4 category: normal
+Removed micro-clusters: 172 label: 4 category: normal
+Removed micro-clusters: 172 label: 4 category: normal
+Removed micro-clusters: 174 label: 4 category: normal
+Removed micro-clusters: 176 label: 4 category: normal
+Removed micro-clusters: 177 label: 4 category: normal
+Removed micro-clusters: 179 label: 4 category: normal
+Removed micro-clusters: 185 label: 4 category: normal
+Removed micro-clusters: 185 label: 4 category: normal
+Removed micro-clusters: 186 label: 4 category: normal
+Removed micro-clusters: 187 label: 4 category: normal
+Removed micro-clusters: 187 label: 4 category: normal
+Removed micro-clusters: 187 label: 4 category: normal
+Removed micro-clusters: 187 label: 4 category: normal
+Removed micro-clusters: 188 label: 4 category: normal
+Removed micro-clusters: 189 label: 4 category: normal
+Removed micro-clusters: 189 label: 4 category: normal
+Removed micro-clusters: 190 label: 4 category: normal
+Removed micro-clusters: 192 label: 4 category: normal
+Removed micro-clusters: 192 label: 4 category: normal
+Removed micro-clusters: 194 label: 4 category: normal
+Removed micro-clusters: 194 label: 4 category: normal
+Removed micro-clusters: 195 label: 4 category: normal
+Removed micro-clusters: 195 label: 4 category: normal
+Removed micro-clusters: 199 label: 4 category: normal
+Removed micro-clusters: 199 label: 4 category: normal
+Removed micro-clusters: 201 label: 4 category: normal
+Removed micro-clusters: 202 label: 4 category: normal
+Removed micro-clusters: 203 label: 4 category: normal
+Removed micro-clusters: 203 label: 4 category: normal
+Timestamp: 2000 - removed micro-clusters: 845 - model's size [4]:204
+Timestamp: 2000 - removed micro-clusters: 845 - model's size [NP7]:1
+Timestamp: 2000 - removed micro-clusters: 845 - model's size [NP6]:1
+Timestamp: 2000 - removed micro-clusters: 845 - model's size [NP9]:1
+Timestamp: 2000 - removed micro-clusters: 845 - model's size [NP8]:1
+Timestamp: 2000 - removed micro-clusters: 845 - model's size [NP30]:1
+
+
+
+
+Thinking np: N NP30 - 4 examples
+
+
+
+Thinking np: N NP30 - 4 examples
+
+
+Thinking np: N NP30 - 4 examples
+
+
+Thinking np: N NP30 - 4 examples
+
+
+
+
+Thinking np: N NP30 - 4 examples
+
+
+
+
+Thinking np: N NP30 - 4 examples
+Removed examples from short-time-memory: 1318	 True labels: [1]
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP13]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP35]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP14]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP36]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP15]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP37]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP16]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP31]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP10]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP32]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP11]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP33]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP12]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP34]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP17]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP18]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP19]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP24]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP25]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP26]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP27]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP20]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP21]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP22]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP23]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP28]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP29]:1
+Removed micro-clusters: 0 label: NP1 category: nov
+Removed micro-clusters: 1 label: 0 category: normal
+Removed micro-clusters: 2 label: 0 category: normal
+Removed micro-clusters: 3 label: 0 category: normal
+Removed micro-clusters: 6 label: 0 category: normal
+Removed micro-clusters: 6 label: 0 category: normal
+Removed micro-clusters: 6 label: 0 category: normal
+Removed micro-clusters: 8 label: 0 category: normal
+Removed micro-clusters: 8 label: 0 category: normal
+Removed micro-clusters: 14 label: 0 category: normal
+Removed micro-clusters: 14 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 20 label: 0 category: normal
+Removed micro-clusters: 25 label: 0 category: normal
+Removed micro-clusters: 25 label: 0 category: normal
+Removed micro-clusters: 29 label: 0 category: normal
+Removed micro-clusters: 29 label: 0 category: normal
+Removed micro-clusters: 29 label: 0 category: normal
+Removed micro-clusters: 29 label: 0 category: normal
+Removed micro-clusters: 29 label: 0 category: normal
+Removed micro-clusters: 35 label: 0 category: normal
+Removed micro-clusters: 36 label: 0 category: normal
+Removed micro-clusters: 37 label: 0 category: normal
+Removed micro-clusters: 40 label: 0 category: normal
+Removed micro-clusters: 41 label: 0 category: normal
+Removed micro-clusters: 41 label: 0 category: normal
+Removed micro-clusters: 42 label: 0 category: normal
+Removed micro-clusters: 43 label: 0 category: normal
+Removed micro-clusters: 43 label: 0 category: normal
+Removed micro-clusters: 46 label: 0 category: normal
+Removed micro-clusters: 55 label: 0 category: normal
+Removed micro-clusters: 58 label: 0 category: normal
+Removed micro-clusters: 61 label: 0 category: normal
+Removed micro-clusters: 64 label: 0 category: normal
+Removed micro-clusters: 69 label: 0 category: normal
+Removed micro-clusters: 70 label: 0 category: normal
+Removed micro-clusters: 70 label: 0 category: normal
+Removed micro-clusters: 71 label: 0 category: normal
+Removed micro-clusters: 71 label: 0 category: normal
+Removed micro-clusters: 72 label: 0 category: normal
+Removed micro-clusters: 74 label: 0 category: normal
+Removed micro-clusters: 75 label: 0 category: normal
+Removed micro-clusters: 83 label: 0 category: normal
+Removed micro-clusters: 83 label: 0 category: normal
+Removed micro-clusters: 90 label: 0 category: normal
+Removed micro-clusters: 92 label: 0 category: normal
+Removed micro-clusters: 92 label: 0 category: normal
+Removed micro-clusters: 95 label: 0 category: normal
+Removed micro-clusters: 95 label: 0 category: normal
+Removed micro-clusters: 101 label: 0 category: normal
+Removed micro-clusters: 101 label: 0 category: normal
+Removed micro-clusters: 101 label: 0 category: normal
+Removed micro-clusters: 101 label: 0 category: normal
+Removed micro-clusters: 102 label: 0 category: normal
+Removed micro-clusters: 103 label: 0 category: normal
+Removed micro-clusters: 105 label: 0 category: normal
+Removed micro-clusters: 107 label: 0 category: normal
+Removed micro-clusters: 110 label: 0 category: normal
+Removed micro-clusters: 110 label: 0 category: normal
+Removed micro-clusters: 110 label: 0 category: normal
+Removed micro-clusters: 111 label: 0 category: normal
+Removed micro-clusters: 121 label: 0 category: normal
+Removed micro-clusters: 122 label: 0 category: normal
+Removed micro-clusters: 125 label: 0 category: normal
+Removed micro-clusters: 125 label: 0 category: normal
+Removed micro-clusters: 129 label: 0 category: normal
+Removed micro-clusters: 131 label: 0 category: normal
+Removed micro-clusters: 131 label: 0 category: normal
+Removed micro-clusters: 133 label: 0 category: normal
+Removed micro-clusters: 138 label: 0 category: normal
+Removed micro-clusters: 139 label: 0 category: normal
+Removed micro-clusters: 139 label: 0 category: normal
+Removed micro-clusters: 140 label: 0 category: normal
+Removed micro-clusters: 143 label: 0 category: normal
+Removed micro-clusters: 143 label: 0 category: normal
+Removed micro-clusters: 150 label: 0 category: normal
+Removed micro-clusters: 152 label: 0 category: normal
+Removed micro-clusters: 158 label: 0 category: normal
+Removed micro-clusters: 160 label: 0 category: normal
+Removed micro-clusters: 161 label: 0 category: normal
+Removed micro-clusters: 165 label: 0 category: normal
+Removed micro-clusters: 166 label: 0 category: normal
+Removed micro-clusters: 172 label: 0 category: normal
+Removed micro-clusters: 172 label: 0 category: normal
+Removed micro-clusters: 172 label: 0 category: normal
+Removed micro-clusters: 172 label: 0 category: normal
+Removed micro-clusters: 175 label: 0 category: normal
+Removed micro-clusters: 179 label: 0 category: normal
+Removed micro-clusters: 179 label: 0 category: normal
+Removed micro-clusters: 179 label: 0 category: normal
+Removed micro-clusters: 181 label: 0 category: normal
+Removed micro-clusters: 181 label: 0 category: normal
+Removed micro-clusters: 185 label: 0 category: normal
+Timestamp: 4000 - removed micro-clusters: 94 - model's size [0]:186
+Timestamp: 4000 - removed micro-clusters: 94 - model's size [NP3]:1
+Removed micro-clusters: 0 label: 1 category: normal
+Removed micro-clusters: 1 label: 1 category: normal
+Removed micro-clusters: 1 label: 1 category: normal
+Removed micro-clusters: 1 label: 1 category: normal
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 3 label: 1 category: normal
+Removed micro-clusters: 9 label: 1 category: normal
+Removed micro-clusters: 9 label: 1 category: normal
+Removed micro-clusters: 9 label: 1 category: normal
+Removed micro-clusters: 9 label: 1 category: normal
+Removed micro-clusters: 13 label: 1 category: normal
+Removed micro-clusters: 14 label: 1 category: normal
+Removed micro-clusters: 14 label: 1 category: normal
+Removed micro-clusters: 24 label: 1 category: normal
+Removed micro-clusters: 34 label: 1 category: normal
+Removed micro-clusters: 36 label: 1 category: normal
+Removed micro-clusters: 37 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Removed micro-clusters: 42 label: 1 category: normal
+Removed micro-clusters: 42 label: 1 category: normal
+Removed micro-clusters: 47 label: 1 category: normal
+Removed micro-clusters: 51 label: 1 category: normal
+Removed micro-clusters: 59 label: 1 category: normal
+Removed micro-clusters: 62 label: 1 category: normal
+Removed micro-clusters: 62 label: 1 category: normal
+Removed micro-clusters: 63 label: 1 category: normal
+Removed micro-clusters: 65 label: 1 category: normal
+Removed micro-clusters: 66 label: 1 category: normal
+Removed micro-clusters: 69 label: 1 category: normal
+Removed micro-clusters: 73 label: 1 category: normal
+Removed micro-clusters: 76 label: 1 category: normal
+Removed micro-clusters: 77 label: 1 category: normal
+Removed micro-clusters: 80 label: 1 category: normal
+Removed micro-clusters: 80 label: 1 category: normal
+Removed micro-clusters: 82 label: 1 category: normal
+Removed micro-clusters: 84 label: 1 category: normal
+Removed micro-clusters: 87 label: 1 category: normal
+Removed micro-clusters: 87 label: 1 category: normal
+Removed micro-clusters: 87 label: 1 category: normal
+Removed micro-clusters: 88 label: 1 category: normal
+Removed micro-clusters: 99 label: 1 category: normal
+Removed micro-clusters: 99 label: 1 category: normal
+Removed micro-clusters: 102 label: 1 category: normal
+Removed micro-clusters: 105 label: 1 category: normal
+Removed micro-clusters: 112 label: 1 category: normal
+Removed micro-clusters: 117 label: 1 category: normal
+Removed micro-clusters: 118 label: 1 category: normal
+Removed micro-clusters: 123 label: 1 category: normal
+Removed micro-clusters: 124 label: 1 category: normal
+Removed micro-clusters: 125 label: 1 category: normal
+Removed micro-clusters: 126 label: 1 category: normal
+Removed micro-clusters: 126 label: 1 category: normal
+Removed micro-clusters: 131 label: 1 category: normal
+Timestamp: 4000 - removed micro-clusters: 149 - model's size [1]:141
+Timestamp: 4000 - removed micro-clusters: 149 - model's size [NP2]:1
+Removed micro-clusters: 1 label: 2 category: normal
+Removed micro-clusters: 1 label: 2 category: normal
+Removed micro-clusters: 3 label: 2 category: normal
+Removed micro-clusters: 5 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 12 label: 2 category: normal
+Removed micro-clusters: 12 label: 2 category: normal
+Removed micro-clusters: 12 label: 2 category: normal
+Removed micro-clusters: 26 label: 2 category: normal
+Removed micro-clusters: 27 label: 2 category: normal
+Removed micro-clusters: 27 label: 2 category: normal
+Removed micro-clusters: 28 label: 2 category: normal
+Removed micro-clusters: 32 label: 2 category: normal
+Removed micro-clusters: 32 label: 2 category: normal
+Removed micro-clusters: 32 label: 2 category: normal
+Removed micro-clusters: 34 label: 2 category: normal
+Removed micro-clusters: 40 label: 2 category: normal
+Removed micro-clusters: 42 label: 2 category: normal
+Removed micro-clusters: 47 label: 2 category: normal
+Removed micro-clusters: 48 label: 2 category: normal
+Removed micro-clusters: 50 label: 2 category: normal
+Removed micro-clusters: 50 label: 2 category: normal
+Removed micro-clusters: 54 label: 2 category: normal
+Removed micro-clusters: 56 label: 2 category: normal
+Removed micro-clusters: 56 label: 2 category: normal
+Removed micro-clusters: 56 label: 2 category: normal
+Removed micro-clusters: 58 label: 2 category: normal
+Removed micro-clusters: 61 label: 2 category: normal
+Removed micro-clusters: 61 label: 2 category: normal
+Removed micro-clusters: 64 label: 2 category: normal
+Removed micro-clusters: 65 label: 2 category: normal
+Removed micro-clusters: 68 label: 2 category: normal
+Removed micro-clusters: 73 label: 2 category: normal
+Removed micro-clusters: 75 label: 2 category: normal
+Removed micro-clusters: 75 label: 2 category: normal
+Removed micro-clusters: 82 label: 2 category: normal
+Removed micro-clusters: 86 label: 2 category: normal
+Removed micro-clusters: 91 label: 2 category: normal
+Removed micro-clusters: 93 label: 2 category: normal
+Removed micro-clusters: 94 label: 2 category: normal
+Removed micro-clusters: 94 label: 2 category: normal
+Removed micro-clusters: 96 label: 2 category: normal
+Removed micro-clusters: 99 label: 2 category: normal
+Removed micro-clusters: 103 label: 2 category: normal
+Removed micro-clusters: 104 label: 2 category: normal
+Removed micro-clusters: 105 label: 2 category: normal
+Removed micro-clusters: 105 label: 2 category: normal
+Removed micro-clusters: 109 label: 2 category: normal
+Removed micro-clusters: 109 label: 2 category: normal
+Removed micro-clusters: 110 label: 2 category: normal
+Removed micro-clusters: 116 label: 2 category: normal
+Removed micro-clusters: 116 label: 2 category: normal
+Removed micro-clusters: 116 label: 2 category: normal
+Removed micro-clusters: 116 label: 2 category: normal
+Removed micro-clusters: 116 label: 2 category: normal
+Removed micro-clusters: 118 label: 2 category: normal
+Removed micro-clusters: 118 label: 2 category: normal
+Removed micro-clusters: 118 label: 2 category: normal
+Removed micro-clusters: 119 label: 2 category: normal
+Removed micro-clusters: 124 label: 2 category: normal
+Removed micro-clusters: 124 label: 2 category: normal
+Removed micro-clusters: 137 label: 2 category: normal
+Removed micro-clusters: 137 label: 2 category: normal
+Removed micro-clusters: 137 label: 2 category: normal
+Removed micro-clusters: 138 label: 2 category: normal
+Removed micro-clusters: 139 label: 2 category: normal
+Removed micro-clusters: 140 label: 2 category: normal
+Removed micro-clusters: 140 label: 2 category: normal
+Removed micro-clusters: 140 label: 2 category: normal
+Removed micro-clusters: 142 label: 2 category: normal
+Removed micro-clusters: 146 label: 2 category: normal
+Removed micro-clusters: 159 label: 2 category: normal
+Removed micro-clusters: 164 label: 2 category: normal
+Removed micro-clusters: 165 label: 2 category: normal
+Removed micro-clusters: 165 label: 2 category: normal
+Removed micro-clusters: 170 label: 2 category: normal
+Removed micro-clusters: 170 label: 2 category: normal
+Removed micro-clusters: 173 label: 2 category: normal
+Removed micro-clusters: 173 label: 2 category: normal
+Removed micro-clusters: 178 label: 2 category: normal
+Removed micro-clusters: 180 label: 2 category: normal
+Removed micro-clusters: 185 label: 2 category: normal
+Removed micro-clusters: 186 label: 2 category: normal
+Removed micro-clusters: 187 label: 2 category: normal
+Removed micro-clusters: 190 label: 2 category: normal
+Removed micro-clusters: 190 label: 2 category: normal
+Removed micro-clusters: 196 label: 2 category: normal
+Removed micro-clusters: 207 label: 2 category: normal
+Removed micro-clusters: 208 label: 2 category: normal
+Removed micro-clusters: 210 label: 2 category: normal
+Removed micro-clusters: 211 label: 2 category: normal
+Removed micro-clusters: 211 label: 2 category: normal
+Removed micro-clusters: 216 label: 2 category: normal
+Removed micro-clusters: 216 label: 2 category: normal
+Removed micro-clusters: 226 label: 2 category: normal
+Removed micro-clusters: 228 label: 2 category: normal
+Removed micro-clusters: 228 label: 2 category: normal
+Timestamp: 4000 - removed micro-clusters: 248 - model's size [2]:231
+Timestamp: 4000 - removed micro-clusters: 248 - model's size [NP5]:1
+Removed micro-clusters: 0 label: 3 category: normal
+Removed micro-clusters: 1 label: 3 category: normal
+Removed micro-clusters: 6 label: 3 category: normal
+Removed micro-clusters: 8 label: 3 category: normal
+Removed micro-clusters: 9 label: 3 category: normal
+Removed micro-clusters: 9 label: 3 category: normal
+Removed micro-clusters: 9 label: 3 category: normal
+Removed micro-clusters: 12 label: 3 category: normal
+Removed micro-clusters: 12 label: 3 category: normal
+Removed micro-clusters: 13 label: 3 category: normal
+Removed micro-clusters: 13 label: 3 category: normal
+Removed micro-clusters: 14 label: 3 category: normal
+Removed micro-clusters: 15 label: 3 category: normal
+Removed micro-clusters: 23 label: 3 category: normal
+Removed micro-clusters: 28 label: 3 category: normal
+Removed micro-clusters: 29 label: 3 category: normal
+Removed micro-clusters: 29 label: 3 category: normal
+Removed micro-clusters: 31 label: 3 category: normal
+Removed micro-clusters: 33 label: 3 category: normal
+Removed micro-clusters: 35 label: 3 category: normal
+Removed micro-clusters: 36 label: 3 category: normal
+Removed micro-clusters: 44 label: 3 category: normal
+Removed micro-clusters: 44 label: 3 category: normal
+Removed micro-clusters: 44 label: 3 category: normal
+Removed micro-clusters: 45 label: 3 category: normal
+Removed micro-clusters: 50 label: 3 category: normal
+Removed micro-clusters: 55 label: 3 category: normal
+Removed micro-clusters: 57 label: 3 category: normal
+Removed micro-clusters: 57 label: 3 category: normal
+Removed micro-clusters: 66 label: 3 category: normal
+Removed micro-clusters: 66 label: 3 category: normal
+Removed micro-clusters: 74 label: 3 category: normal
+Removed micro-clusters: 74 label: 3 category: normal
+Removed micro-clusters: 74 label: 3 category: normal
+Removed micro-clusters: 78 label: 3 category: normal
+Removed micro-clusters: 78 label: 3 category: normal
+Removed micro-clusters: 80 label: 3 category: normal
+Removed micro-clusters: 80 label: 3 category: normal
+Removed micro-clusters: 81 label: 3 category: normal
+Removed micro-clusters: 81 label: 3 category: normal
+Removed micro-clusters: 81 label: 3 category: normal
+Removed micro-clusters: 83 label: 3 category: normal
+Removed micro-clusters: 85 label: 3 category: normal
+Removed micro-clusters: 103 label: 3 category: normal
+Removed micro-clusters: 109 label: 3 category: normal
+Removed micro-clusters: 117 label: 3 category: normal
+Removed micro-clusters: 119 label: 3 category: normal
+Removed micro-clusters: 120 label: 3 category: normal
+Removed micro-clusters: 130 label: 3 category: normal
+Removed micro-clusters: 135 label: 3 category: normal
+Removed micro-clusters: 136 label: 3 category: normal
+Removed micro-clusters: 136 label: 3 category: normal
+Removed micro-clusters: 136 label: 3 category: normal
+Removed micro-clusters: 141 label: 3 category: normal
+Removed micro-clusters: 141 label: 3 category: normal
+Removed micro-clusters: 142 label: 3 category: normal
+Removed micro-clusters: 144 label: 3 category: normal
+Removed micro-clusters: 149 label: 3 category: normal
+Removed micro-clusters: 153 label: 3 category: normal
+Removed micro-clusters: 154 label: 3 category: normal
+Removed micro-clusters: 154 label: 3 category: normal
+Removed micro-clusters: 154 label: 3 category: normal
+Removed micro-clusters: 161 label: 3 category: normal
+Removed micro-clusters: 164 label: 3 category: normal
+Removed micro-clusters: 168 label: 3 category: normal
+Removed micro-clusters: 172 label: 3 category: normal
+Removed micro-clusters: 173 label: 3 category: normal
+Removed micro-clusters: 176 label: 3 category: normal
+Removed micro-clusters: 179 label: 3 category: normal
+Removed micro-clusters: 180 label: 3 category: normal
+Timestamp: 4000 - removed micro-clusters: 318 - model's size [3]:189
+Timestamp: 4000 - removed micro-clusters: 318 - model's size [NP4]:1
+Removed micro-clusters: 3 label: 4 category: normal
+Removed micro-clusters: 6 label: 4 category: normal
+Removed micro-clusters: 11 label: 4 category: normal
+Removed micro-clusters: 17 label: 4 category: normal
+Removed micro-clusters: 17 label: 4 category: normal
+Removed micro-clusters: 23 label: 4 category: normal
+Removed micro-clusters: 26 label: 4 category: normal
+Removed micro-clusters: 28 label: 4 category: normal
+Removed micro-clusters: 40 label: 4 category: normal
+Removed micro-clusters: 42 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Removed micro-clusters: 52 label: 4 category: normal
+Removed micro-clusters: 52 label: 4 category: normal
+Removed micro-clusters: 54 label: 4 category: normal
+Removed micro-clusters: 64 label: 4 category: normal
+Removed micro-clusters: 64 label: 4 category: normal
+Removed micro-clusters: 64 label: 4 category: normal
+Removed micro-clusters: 64 label: 4 category: normal
+Removed micro-clusters: 75 label: 4 category: normal
+Removed micro-clusters: 81 label: 4 category: normal
+Removed micro-clusters: 82 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 89 label: 4 category: normal
+Removed micro-clusters: 89 label: 4 category: normal
+Removed micro-clusters: 89 label: 4 category: normal
+Removed micro-clusters: 94 label: 4 category: normal
+Removed micro-clusters: 100 label: 4 category: normal
+Removed micro-clusters: 100 label: 4 category: normal
+Removed micro-clusters: 100 label: 4 category: normal
+Removed micro-clusters: 108 label: 4 category: normal
+Removed micro-clusters: 109 label: 4 category: normal
+Removed micro-clusters: 111 label: 4 category: normal
+Removed micro-clusters: 114 label: 4 category: normal
+Removed micro-clusters: 122 label: 4 category: normal
+Removed micro-clusters: 125 label: 4 category: normal
+Removed micro-clusters: 128 label: 4 category: normal
+Removed micro-clusters: 132 label: 4 category: normal
+Removed micro-clusters: 141 label: 4 category: normal
+Removed micro-clusters: 143 label: 4 category: normal
+Removed micro-clusters: 145 label: 4 category: normal
+Removed micro-clusters: 145 label: 4 category: normal
+Removed micro-clusters: 145 label: 4 category: normal
+Removed micro-clusters: 153 label: 4 category: normal
+Timestamp: 4000 - removed micro-clusters: 365 - model's size [4]:157
+Timestamp: 4000 - removed micro-clusters: 365 - model's size [NP7]:1
+Timestamp: 4000 - removed micro-clusters: 365 - model's size [NP6]:1
+Timestamp: 4000 - removed micro-clusters: 365 - model's size [NP9]:1
+Timestamp: 4000 - removed micro-clusters: 365 - model's size [NP8]:1
+Timestamp: 4000 - removed micro-clusters: 365 - model's size [NP30]:1
+
+
+
+
+
+
+Thinking np: N NP30 - 4 examples
+
+Thinking np: N NP30 - 4 examples
+
+
+Thinking np: N NP30 - 4 examples
+
+Removed examples from short-time-memory: 2219	 True labels: [0]
+Removed examples from short-time-memory: 2396	 True labels: [0]
+Removed examples from short-time-memory: 2590	 True labels: [0]
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP13]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP35]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP14]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP36]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP15]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP37]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP16]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP38]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP31]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP10]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP32]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP11]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP33]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP12]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP34]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP17]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP39]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP18]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP19]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP40]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP24]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP25]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP26]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP27]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP20]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP21]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP22]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP23]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP28]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP29]:1
+Removed micro-clusters: 7 label: 0 category: normal
+Removed micro-clusters: 7 label: 0 category: normal
+Removed micro-clusters: 8 label: 0 category: normal
+Removed micro-clusters: 9 label: 0 category: normal
+Removed micro-clusters: 11 label: 0 category: normal
+Removed micro-clusters: 12 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 18 label: 0 category: normal
+Removed micro-clusters: 19 label: 0 category: normal
+Removed micro-clusters: 27 label: 0 category: normal
+Removed micro-clusters: 38 label: 0 category: normal
+Removed micro-clusters: 42 label: 0 category: normal
+Removed micro-clusters: 47 label: 0 category: normal
+Removed micro-clusters: 58 label: 0 category: normal
+Removed micro-clusters: 60 label: 0 category: normal
+Removed micro-clusters: 61 label: 0 category: normal
+Removed micro-clusters: 62 label: 0 category: normal
+Removed micro-clusters: 66 label: 0 category: normal
+Removed micro-clusters: 68 label: 0 category: normal
+Removed micro-clusters: 69 label: 0 category: normal
+Removed micro-clusters: 75 label: 0 category: normal
+Removed micro-clusters: 83 label: 0 category: normal
+Removed micro-clusters: 87 label: 0 category: normal
+Removed micro-clusters: 87 label: 0 category: normal
+Removed micro-clusters: 102 label: 0 category: normal
+Removed micro-clusters: 102 label: 0 category: normal
+Removed micro-clusters: 108 label: 0 category: normal
+Removed micro-clusters: 108 label: 0 category: normal
+Removed micro-clusters: 109 label: 0 category: normal
+Removed micro-clusters: 109 label: 0 category: normal
+Removed micro-clusters: 110 label: 0 category: normal
+Removed micro-clusters: 110 label: 0 category: normal
+Removed micro-clusters: 114 label: 0 category: normal
+Removed micro-clusters: 120 label: 0 category: normal
+Removed micro-clusters: 120 label: 0 category: normal
+Removed micro-clusters: 120 label: 0 category: normal
+Removed micro-clusters: 121 label: 0 category: normal
+Removed micro-clusters: 121 label: 0 category: normal
+Removed micro-clusters: 122 label: 0 category: normal
+Removed micro-clusters: 130 label: 0 category: normal
+Removed micro-clusters: 131 label: 0 category: normal
+Removed micro-clusters: 133 label: 0 category: normal
+Removed micro-clusters: 137 label: 0 category: normal
+Removed micro-clusters: 139 label: 0 category: normal
+Removed micro-clusters: 140 label: 0 category: normal
+Timestamp: 6000 - removed micro-clusters: 46 - model's size [0]:140
+Timestamp: 6000 - removed micro-clusters: 46 - model's size [NP3]:1
+Removed micro-clusters: 0 label: 1 category: normal
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 4 label: 1 category: normal
+Removed micro-clusters: 7 label: 1 category: normal
+Removed micro-clusters: 8 label: 1 category: normal
+Removed micro-clusters: 9 label: 1 category: normal
+Removed micro-clusters: 12 label: 1 category: normal
+Removed micro-clusters: 12 label: 1 category: normal
+Removed micro-clusters: 14 label: 1 category: normal
+Removed micro-clusters: 14 label: 1 category: normal
+Removed micro-clusters: 16 label: 1 category: normal
+Removed micro-clusters: 20 label: 1 category: normal
+Removed micro-clusters: 22 label: 1 category: normal
+Removed micro-clusters: 25 label: 1 category: normal
+Removed micro-clusters: 26 label: 1 category: normal
+Removed micro-clusters: 27 label: 1 category: normal
+Removed micro-clusters: 29 label: 1 category: normal
+Removed micro-clusters: 29 label: 1 category: normal
+Removed micro-clusters: 30 label: 1 category: normal
+Removed micro-clusters: 30 label: 1 category: normal
+Removed micro-clusters: 35 label: 1 category: normal
+Removed micro-clusters: 35 label: 1 category: normal
+Removed micro-clusters: 37 label: 1 category: normal
+Removed micro-clusters: 41 label: 1 category: normal
+Removed micro-clusters: 41 label: 1 category: normal
+Removed micro-clusters: 47 label: 1 category: normal
+Removed micro-clusters: 48 label: 1 category: normal
+Removed micro-clusters: 53 label: 1 category: normal
+Removed micro-clusters: 53 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 69 label: 1 category: normal
+Removed micro-clusters: 69 label: 1 category: normal
+Removed micro-clusters: 69 label: 1 category: normal
+Removed micro-clusters: 73 label: 1 category: normal
+Removed micro-clusters: 73 label: 1 category: normal
+Removed micro-clusters: 73 label: 1 category: normal
+Removed micro-clusters: 74 label: 1 category: normal
+Removed micro-clusters: 75 label: 1 category: normal
+Removed micro-clusters: 80 label: 1 category: normal
+Removed micro-clusters: 80 label: 1 category: normal
+Removed micro-clusters: 81 label: 1 category: normal
+Removed micro-clusters: 81 label: 1 category: normal
+Removed micro-clusters: 83 label: 1 category: normal
+Removed micro-clusters: 93 label: 1 category: normal
+Timestamp: 6000 - removed micro-clusters: 94 - model's size [1]:93
+Timestamp: 6000 - removed micro-clusters: 94 - model's size [NP2]:1
+Removed micro-clusters: 0 label: 2 category: normal
+Removed micro-clusters: 7 label: 2 category: normal
+Removed micro-clusters: 9 label: 2 category: normal
+Removed micro-clusters: 9 label: 2 category: normal
+Removed micro-clusters: 9 label: 2 category: normal
+Removed micro-clusters: 10 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 16 label: 2 category: normal
+Removed micro-clusters: 16 label: 2 category: normal
+Removed micro-clusters: 33 label: 2 category: normal
+Removed micro-clusters: 34 label: 2 category: normal
+Removed micro-clusters: 36 label: 2 category: normal
+Removed micro-clusters: 36 label: 2 category: normal
+Removed micro-clusters: 36 label: 2 category: normal
+Removed micro-clusters: 41 label: 2 category: normal
+Removed micro-clusters: 43 label: 2 category: normal
+Removed micro-clusters: 44 label: 2 category: normal
+Removed micro-clusters: 51 label: 2 category: normal
+Removed micro-clusters: 53 label: 2 category: normal
+Removed micro-clusters: 54 label: 2 category: normal
+Removed micro-clusters: 54 label: 2 category: normal
+Removed micro-clusters: 59 label: 2 category: normal
+Removed micro-clusters: 59 label: 2 category: normal
+Removed micro-clusters: 60 label: 2 category: normal
+Removed micro-clusters: 60 label: 2 category: normal
+Removed micro-clusters: 64 label: 2 category: normal
+Removed micro-clusters: 64 label: 2 category: normal
+Removed micro-clusters: 65 label: 2 category: normal
+Removed micro-clusters: 66 label: 2 category: normal
+Removed micro-clusters: 66 label: 2 category: normal
+Removed micro-clusters: 66 label: 2 category: normal
+Removed micro-clusters: 67 label: 2 category: normal
+Removed micro-clusters: 67 label: 2 category: normal
+Removed micro-clusters: 67 label: 2 category: normal
+Removed micro-clusters: 68 label: 2 category: normal
+Removed micro-clusters: 68 label: 2 category: normal
+Removed micro-clusters: 73 label: 2 category: normal
+Removed micro-clusters: 76 label: 2 category: normal
+Removed micro-clusters: 81 label: 2 category: normal
+Removed micro-clusters: 84 label: 2 category: normal
+Removed micro-clusters: 85 label: 2 category: normal
+Removed micro-clusters: 92 label: 2 category: normal
+Removed micro-clusters: 92 label: 2 category: normal
+Removed micro-clusters: 96 label: 2 category: normal
+Removed micro-clusters: 105 label: 2 category: normal
+Removed micro-clusters: 106 label: 2 category: normal
+Removed micro-clusters: 106 label: 2 category: normal
+Removed micro-clusters: 108 label: 2 category: normal
+Removed micro-clusters: 111 label: 2 category: normal
+Removed micro-clusters: 117 label: 2 category: normal
+Removed micro-clusters: 120 label: 2 category: normal
+Removed micro-clusters: 121 label: 2 category: normal
+Removed micro-clusters: 125 label: 2 category: normal
+Removed micro-clusters: 125 label: 2 category: normal
+Removed micro-clusters: 130 label: 2 category: normal
+Removed micro-clusters: 131 label: 2 category: normal
+Removed micro-clusters: 132 label: 2 category: normal
+Removed micro-clusters: 134 label: 2 category: normal
+Removed micro-clusters: 143 label: 2 category: normal
+Removed micro-clusters: 149 label: 2 category: normal
+Removed micro-clusters: 155 label: 2 category: normal
+Removed micro-clusters: 156 label: 2 category: normal
+Timestamp: 6000 - removed micro-clusters: 158 - model's size [2]:167
+Timestamp: 6000 - removed micro-clusters: 158 - model's size [NP5]:1
+Removed micro-clusters: 2 label: 3 category: normal
+Removed micro-clusters: 2 label: 3 category: normal
+Removed micro-clusters: 8 label: 3 category: normal
+Removed micro-clusters: 10 label: 3 category: normal
+Removed micro-clusters: 14 label: 3 category: normal
+Removed micro-clusters: 17 label: 3 category: normal
+Removed micro-clusters: 18 label: 3 category: normal
+Removed micro-clusters: 18 label: 3 category: normal
+Removed micro-clusters: 22 label: 3 category: normal
+Removed micro-clusters: 25 label: 3 category: normal
+Removed micro-clusters: 26 label: 3 category: normal
+Removed micro-clusters: 33 label: 3 category: normal
+Removed micro-clusters: 33 label: 3 category: normal
+Removed micro-clusters: 36 label: 3 category: normal
+Removed micro-clusters: 42 label: 3 category: normal
+Removed micro-clusters: 43 label: 3 category: normal
+Removed micro-clusters: 46 label: 3 category: normal
+Removed micro-clusters: 51 label: 3 category: normal
+Removed micro-clusters: 51 label: 3 category: normal
+Removed micro-clusters: 53 label: 3 category: normal
+Removed micro-clusters: 55 label: 3 category: normal
+Removed micro-clusters: 58 label: 3 category: normal
+Removed micro-clusters: 58 label: 3 category: normal
+Removed micro-clusters: 61 label: 3 category: normal
+Removed micro-clusters: 61 label: 3 category: normal
+Removed micro-clusters: 61 label: 3 category: normal
+Removed micro-clusters: 62 label: 3 category: normal
+Removed micro-clusters: 71 label: 3 category: normal
+Removed micro-clusters: 71 label: 3 category: normal
+Removed micro-clusters: 71 label: 3 category: normal
+Removed micro-clusters: 74 label: 3 category: normal
+Removed micro-clusters: 76 label: 3 category: normal
+Removed micro-clusters: 90 label: 3 category: normal
+Removed micro-clusters: 92 label: 3 category: normal
+Removed micro-clusters: 93 label: 3 category: normal
+Removed micro-clusters: 99 label: 3 category: normal
+Removed micro-clusters: 99 label: 3 category: normal
+Removed micro-clusters: 100 label: 3 category: normal
+Removed micro-clusters: 101 label: 3 category: normal
+Removed micro-clusters: 105 label: 3 category: normal
+Removed micro-clusters: 110 label: 3 category: normal
+Removed micro-clusters: 114 label: 3 category: normal
+Removed micro-clusters: 122 label: 3 category: normal
+Removed micro-clusters: 122 label: 3 category: normal
+Removed micro-clusters: 123 label: 3 category: normal
+Removed micro-clusters: 128 label: 3 category: normal
+Removed micro-clusters: 130 label: 3 category: normal
+Removed micro-clusters: 130 label: 3 category: normal
+Removed micro-clusters: 133 label: 3 category: normal
+Removed micro-clusters: 135 label: 3 category: normal
+Removed micro-clusters: 138 label: 3 category: normal
+Timestamp: 6000 - removed micro-clusters: 209 - model's size [3]:138
+Timestamp: 6000 - removed micro-clusters: 209 - model's size [NP4]:1
+Removed micro-clusters: 1 label: 4 category: normal
+Removed micro-clusters: 3 label: 4 category: normal
+Removed micro-clusters: 6 label: 4 category: normal
+Removed micro-clusters: 6 label: 4 category: normal
+Removed micro-clusters: 9 label: 4 category: normal
+Removed micro-clusters: 9 label: 4 category: normal
+Removed micro-clusters: 12 label: 4 category: normal
+Removed micro-clusters: 13 label: 4 category: normal
+Removed micro-clusters: 14 label: 4 category: normal
+Removed micro-clusters: 14 label: 4 category: normal
+Removed micro-clusters: 16 label: 4 category: normal
+Removed micro-clusters: 16 label: 4 category: normal
+Removed micro-clusters: 16 label: 4 category: normal
+Removed micro-clusters: 17 label: 4 category: normal
+Removed micro-clusters: 22 label: 4 category: normal
+Removed micro-clusters: 27 label: 4 category: normal
+Removed micro-clusters: 31 label: 4 category: normal
+Removed micro-clusters: 36 label: 4 category: normal
+Removed micro-clusters: 36 label: 4 category: normal
+Removed micro-clusters: 39 label: 4 category: normal
+Removed micro-clusters: 43 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 44 label: 4 category: normal
+Removed micro-clusters: 45 label: 4 category: normal
+Removed micro-clusters: 46 label: 4 category: normal
+Removed micro-clusters: 47 label: 4 category: normal
+Removed micro-clusters: 52 label: 4 category: normal
+Removed micro-clusters: 55 label: 4 category: normal
+Removed micro-clusters: 56 label: 4 category: normal
+Removed micro-clusters: 58 label: 4 category: normal
+Removed micro-clusters: 63 label: 4 category: normal
+Removed micro-clusters: 66 label: 4 category: normal
+Removed micro-clusters: 70 label: 4 category: normal
+Removed micro-clusters: 71 label: 4 category: normal
+Removed micro-clusters: 74 label: 4 category: normal
+Removed micro-clusters: 80 label: 4 category: normal
+Removed micro-clusters: 80 label: 4 category: normal
+Removed micro-clusters: 80 label: 4 category: normal
+Removed micro-clusters: 82 label: 4 category: normal
+Removed micro-clusters: 82 label: 4 category: normal
+Removed micro-clusters: 82 label: 4 category: normal
+Removed micro-clusters: 84 label: 4 category: normal
+Removed micro-clusters: 84 label: 4 category: normal
+Removed micro-clusters: 85 label: 4 category: normal
+Removed micro-clusters: 86 label: 4 category: normal
+Removed micro-clusters: 87 label: 4 category: normal
+Removed micro-clusters: 89 label: 4 category: normal
+Removed micro-clusters: 89 label: 4 category: normal
+Removed micro-clusters: 96 label: 4 category: normal
+Timestamp: 6000 - removed micro-clusters: 262 - model's size [4]:104
+Timestamp: 6000 - removed micro-clusters: 262 - model's size [NP7]:1
+Timestamp: 6000 - removed micro-clusters: 262 - model's size [NP6]:1
+Timestamp: 6000 - removed micro-clusters: 262 - model's size [NP9]:1
+Timestamp: 6000 - removed micro-clusters: 262 - model's size [NP8]:1
+Timestamp: 6000 - removed micro-clusters: 262 - model's size [NP30]:1
+
+
+Thinking np: N NP30 - 4 examples
+
+
+
+Removed examples from short-time-memory: 4944	 True labels: [4]
+Removed examples from short-time-memory: 5096	 True labels: [4]
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP13]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP35]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP14]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP36]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP15]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP37]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP16]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP38]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP31]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP10]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP32]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP11]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP33]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP12]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP34]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP17]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP39]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP18]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP19]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP40]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP41]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP24]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP25]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP26]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP27]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP20]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP21]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP22]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP23]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP28]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP29]:1
+Removed micro-clusters: 1 label: 0 category: normal
+Removed micro-clusters: 1 label: 0 category: normal
+Removed micro-clusters: 8 label: 0 category: normal
+Removed micro-clusters: 11 label: 0 category: normal
+Removed micro-clusters: 14 label: 0 category: normal
+Removed micro-clusters: 16 label: 0 category: normal
+Removed micro-clusters: 16 label: 0 category: normal
+Removed micro-clusters: 16 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 19 label: 0 category: normal
+Removed micro-clusters: 19 label: 0 category: normal
+Removed micro-clusters: 20 label: 0 category: normal
+Removed micro-clusters: 20 label: 0 category: normal
+Removed micro-clusters: 25 label: 0 category: normal
+Removed micro-clusters: 26 label: 0 category: normal
+Removed micro-clusters: 26 label: 0 category: normal
+Removed micro-clusters: 26 label: 0 category: normal
+Removed micro-clusters: 26 label: 0 category: normal
+Removed micro-clusters: 28 label: 0 category: normal
+Removed micro-clusters: 28 label: 0 category: normal
+Removed micro-clusters: 29 label: 0 category: normal
+Removed micro-clusters: 37 label: 0 category: normal
+Removed micro-clusters: 39 label: 0 category: normal
+Removed micro-clusters: 39 label: 0 category: normal
+Removed micro-clusters: 54 label: 0 category: normal
+Removed micro-clusters: 55 label: 0 category: normal
+Removed micro-clusters: 60 label: 0 category: normal
+Removed micro-clusters: 61 label: 0 category: normal
+Removed micro-clusters: 64 label: 0 category: normal
+Removed micro-clusters: 69 label: 0 category: normal
+Removed micro-clusters: 69 label: 0 category: normal
+Removed micro-clusters: 70 label: 0 category: normal
+Removed micro-clusters: 72 label: 0 category: normal
+Removed micro-clusters: 73 label: 0 category: normal
+Removed micro-clusters: 74 label: 0 category: normal
+Removed micro-clusters: 79 label: 0 category: normal
+Removed micro-clusters: 84 label: 0 category: normal
+Removed micro-clusters: 85 label: 0 category: normal
+Removed micro-clusters: 88 label: 0 category: normal
+Removed micro-clusters: 91 label: 0 category: normal
+Timestamp: 8000 - removed micro-clusters: 40 - model's size [0]:100
+Timestamp: 8000 - removed micro-clusters: 40 - model's size [NP3]:1
+Removed micro-clusters: 5 label: 1 category: normal
+Removed micro-clusters: 12 label: 1 category: normal
+Removed micro-clusters: 16 label: 1 category: normal
+Removed micro-clusters: 17 label: 1 category: normal
+Removed micro-clusters: 19 label: 1 category: normal
+Removed micro-clusters: 19 label: 1 category: normal
+Removed micro-clusters: 19 label: 1 category: normal
+Removed micro-clusters: 19 label: 1 category: normal
+Removed micro-clusters: 22 label: 1 category: normal
+Removed micro-clusters: 24 label: 1 category: normal
+Removed micro-clusters: 27 label: 1 category: normal
+Removed micro-clusters: 27 label: 1 category: normal
+Removed micro-clusters: 36 label: 1 category: normal
+Removed micro-clusters: 37 label: 1 category: normal
+Removed micro-clusters: 37 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Removed micro-clusters: 42 label: 1 category: normal
+Removed micro-clusters: 46 label: 1 category: normal
+Removed micro-clusters: 50 label: 1 category: normal
+Removed micro-clusters: 50 label: 1 category: normal
+Removed micro-clusters: 54 label: 1 category: normal
+Removed micro-clusters: 54 label: 1 category: normal
+Removed micro-clusters: 55 label: 1 category: normal
+Removed micro-clusters: 55 label: 1 category: normal
+Removed micro-clusters: 56 label: 1 category: normal
+Removed micro-clusters: 56 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 58 label: 1 category: normal
+Removed micro-clusters: 62 label: 1 category: normal
+Timestamp: 8000 - removed micro-clusters: 71 - model's size [1]:62
+Timestamp: 8000 - removed micro-clusters: 71 - model's size [NP2]:1
+Removed micro-clusters: 1 label: 2 category: normal
+Removed micro-clusters: 3 label: 2 category: normal
+Removed micro-clusters: 6 label: 2 category: normal
+Removed micro-clusters: 6 label: 2 category: normal
+Removed micro-clusters: 10 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 12 label: 2 category: normal
+Removed micro-clusters: 13 label: 2 category: normal
+Removed micro-clusters: 14 label: 2 category: normal
+Removed micro-clusters: 16 label: 2 category: normal
+Removed micro-clusters: 20 label: 2 category: normal
+Removed micro-clusters: 21 label: 2 category: normal
+Removed micro-clusters: 21 label: 2 category: normal
+Removed micro-clusters: 23 label: 2 category: normal
+Removed micro-clusters: 23 label: 2 category: normal
+Removed micro-clusters: 23 label: 2 category: normal
+Removed micro-clusters: 24 label: 2 category: normal
+Removed micro-clusters: 24 label: 2 category: normal
+Removed micro-clusters: 24 label: 2 category: normal
+Removed micro-clusters: 27 label: 2 category: normal
+Removed micro-clusters: 28 label: 2 category: normal
+Removed micro-clusters: 30 label: 2 category: normal
+Removed micro-clusters: 30 label: 2 category: normal
+Removed micro-clusters: 33 label: 2 category: normal
+Removed micro-clusters: 34 label: 2 category: normal
+Removed micro-clusters: 35 label: 2 category: normal
+Removed micro-clusters: 35 label: 2 category: normal
+Removed micro-clusters: 40 label: 2 category: normal
+Removed micro-clusters: 45 label: 2 category: normal
+Removed micro-clusters: 50 label: 2 category: normal
+Removed micro-clusters: 50 label: 2 category: normal
+Removed micro-clusters: 50 label: 2 category: normal
+Removed micro-clusters: 51 label: 2 category: normal
+Removed micro-clusters: 52 label: 2 category: normal
+Removed micro-clusters: 55 label: 2 category: normal
+Removed micro-clusters: 55 label: 2 category: normal
+Removed micro-clusters: 58 label: 2 category: normal
+Removed micro-clusters: 58 label: 2 category: normal
+Removed micro-clusters: 58 label: 2 category: normal
+Removed micro-clusters: 58 label: 2 category: normal
+Removed micro-clusters: 59 label: 2 category: normal
+Removed micro-clusters: 62 label: 2 category: normal
+Removed micro-clusters: 75 label: 2 category: normal
+Removed micro-clusters: 75 label: 2 category: normal
+Removed micro-clusters: 80 label: 2 category: normal
+Removed micro-clusters: 87 label: 2 category: normal
+Removed micro-clusters: 89 label: 2 category: normal
+Removed micro-clusters: 89 label: 2 category: normal
+Removed micro-clusters: 89 label: 2 category: normal
+Removed micro-clusters: 90 label: 2 category: normal
+Removed micro-clusters: 90 label: 2 category: normal
+Removed micro-clusters: 91 label: 2 category: normal
+Removed micro-clusters: 96 label: 2 category: normal
+Removed micro-clusters: 96 label: 2 category: normal
+Removed micro-clusters: 98 label: 2 category: normal
+Removed micro-clusters: 104 label: 2 category: normal
+Removed micro-clusters: 105 label: 2 category: normal
+Removed micro-clusters: 105 label: 2 category: normal
+Removed micro-clusters: 105 label: 2 category: normal
+Timestamp: 8000 - removed micro-clusters: 132 - model's size [2]:106
+Timestamp: 8000 - removed micro-clusters: 132 - model's size [NP5]:1
+Removed micro-clusters: 0 label: 3 category: normal
+Removed micro-clusters: 1 label: 3 category: normal
+Removed micro-clusters: 1 label: 3 category: normal
+Removed micro-clusters: 1 label: 3 category: normal
+Removed micro-clusters: 1 label: 3 category: normal
+Removed micro-clusters: 1 label: 3 category: normal
+Removed micro-clusters: 5 label: 3 category: normal
+Removed micro-clusters: 11 label: 3 category: normal
+Removed micro-clusters: 12 label: 3 category: normal
+Removed micro-clusters: 13 label: 3 category: normal
+Removed micro-clusters: 13 label: 3 category: normal
+Removed micro-clusters: 15 label: 3 category: normal
+Removed micro-clusters: 25 label: 3 category: normal
+Removed micro-clusters: 29 label: 3 category: normal
+Removed micro-clusters: 33 label: 3 category: normal
+Removed micro-clusters: 37 label: 3 category: normal
+Removed micro-clusters: 37 label: 3 category: normal
+Removed micro-clusters: 37 label: 3 category: normal
+Removed micro-clusters: 39 label: 3 category: normal
+Removed micro-clusters: 40 label: 3 category: normal
+Removed micro-clusters: 41 label: 3 category: normal
+Removed micro-clusters: 48 label: 3 category: normal
+Removed micro-clusters: 49 label: 3 category: normal
+Removed micro-clusters: 54 label: 3 category: normal
+Removed micro-clusters: 54 label: 3 category: normal
+Removed micro-clusters: 62 label: 3 category: normal
+Removed micro-clusters: 65 label: 3 category: normal
+Removed micro-clusters: 67 label: 3 category: normal
+Removed micro-clusters: 67 label: 3 category: normal
+Removed micro-clusters: 71 label: 3 category: normal
+Removed micro-clusters: 72 label: 3 category: normal
+Removed micro-clusters: 74 label: 3 category: normal
+Removed micro-clusters: 74 label: 3 category: normal
+Removed micro-clusters: 77 label: 3 category: normal
+Removed micro-clusters: 77 label: 3 category: normal
+Removed micro-clusters: 77 label: 3 category: normal
+Removed micro-clusters: 78 label: 3 category: normal
+Removed micro-clusters: 78 label: 3 category: normal
+Removed micro-clusters: 78 label: 3 category: normal
+Removed micro-clusters: 78 label: 3 category: normal
+Removed micro-clusters: 79 label: 3 category: normal
+Removed micro-clusters: 80 label: 3 category: normal
+Removed micro-clusters: 81 label: 3 category: normal
+Removed micro-clusters: 84 label: 3 category: normal
+Removed micro-clusters: 84 label: 3 category: normal
+Removed micro-clusters: 85 label: 3 category: normal
+Removed micro-clusters: 86 label: 3 category: normal
+Removed micro-clusters: 89 label: 3 category: normal
+Timestamp: 8000 - removed micro-clusters: 180 - model's size [3]:90
+Timestamp: 8000 - removed micro-clusters: 180 - model's size [NP4]:1
+Removed micro-clusters: 1 label: 4 category: normal
+Removed micro-clusters: 2 label: 4 category: normal
+Removed micro-clusters: 6 label: 4 category: normal
+Removed micro-clusters: 7 label: 4 category: normal
+Removed micro-clusters: 11 label: 4 category: normal
+Removed micro-clusters: 12 label: 4 category: normal
+Removed micro-clusters: 12 label: 4 category: normal
+Removed micro-clusters: 12 label: 4 category: normal
+Removed micro-clusters: 17 label: 4 category: normal
+Removed micro-clusters: 27 label: 4 category: normal
+Removed micro-clusters: 28 label: 4 category: normal
+Removed micro-clusters: 28 label: 4 category: normal
+Removed micro-clusters: 31 label: 4 category: normal
+Removed micro-clusters: 36 label: 4 category: normal
+Removed micro-clusters: 36 label: 4 category: normal
+Removed micro-clusters: 50 label: 4 category: normal
+Removed micro-clusters: 52 label: 4 category: normal
+Removed micro-clusters: 59 label: 4 category: normal
+Removed micro-clusters: 60 label: 4 category: normal
+Removed micro-clusters: 61 label: 4 category: normal
+Removed micro-clusters: 62 label: 4 category: normal
+Removed micro-clusters: 66 label: 4 category: normal
+Removed micro-clusters: 68 label: 4 category: normal
+Removed micro-clusters: 68 label: 4 category: normal
+Removed micro-clusters: 68 label: 4 category: normal
+Removed micro-clusters: 68 label: 4 category: normal
+Removed micro-clusters: 70 label: 4 category: normal
+Removed micro-clusters: 71 label: 4 category: normal
+Removed micro-clusters: 74 label: 4 category: normal
+Timestamp: 8000 - removed micro-clusters: 209 - model's size [4]:75
+Timestamp: 8000 - removed micro-clusters: 209 - model's size [NP7]:1
+Timestamp: 8000 - removed micro-clusters: 209 - model's size [NP6]:1
+Timestamp: 8000 - removed micro-clusters: 209 - model's size [NP9]:1
+Timestamp: 8000 - removed micro-clusters: 209 - model's size [NP8]:1
+Timestamp: 8000 - removed micro-clusters: 209 - model's size [NP30]:1
+
+
+
+Thinking np: N NP30 - 4 examples
+
+Thinking np: N NP30 - 4 examples
+
+
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP13]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP35]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP14]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP36]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP15]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP37]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP16]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP38]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP31]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP10]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP32]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP11]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP33]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP12]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP34]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP17]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP39]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP18]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP19]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP40]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP41]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP24]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP25]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP26]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP27]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP20]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP42]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP21]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP43]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP22]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP23]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP28]:1
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [NP29]:1
+Removed micro-clusters: 1 label: 0 category: normal
+Removed micro-clusters: 3 label: 0 category: normal
+Removed micro-clusters: 13 label: 0 category: normal
+Removed micro-clusters: 13 label: 0 category: normal
+Removed micro-clusters: 15 label: 0 category: normal
+Removed micro-clusters: 15 label: 0 category: normal
+Removed micro-clusters: 16 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 17 label: 0 category: normal
+Removed micro-clusters: 18 label: 0 category: normal
+Removed micro-clusters: 19 label: 0 category: normal
+Removed micro-clusters: 19 label: 0 category: normal
+Removed micro-clusters: 20 label: 0 category: normal
+Removed micro-clusters: 26 label: 0 category: normal
+Removed micro-clusters: 35 label: 0 category: normal
+Removed micro-clusters: 36 label: 0 category: normal
+Removed micro-clusters: 39 label: 0 category: normal
+Removed micro-clusters: 39 label: 0 category: normal
+Removed micro-clusters: 50 label: 0 category: normal
+Removed micro-clusters: 51 label: 0 category: normal
+Removed micro-clusters: 51 label: 0 category: normal
+Removed micro-clusters: 51 label: 0 category: normal
+Removed micro-clusters: 55 label: 0 category: normal
+Removed micro-clusters: 55 label: 0 category: normal
+Removed micro-clusters: 55 label: 0 category: normal
+Removed micro-clusters: 58 label: 0 category: normal
+Removed micro-clusters: 58 label: 0 category: normal
+Removed micro-clusters: 65 label: 0 category: normal
+Removed micro-clusters: 69 label: 0 category: normal
+Timestamp: 10000 - removed micro-clusters: 30 - model's size [0]:70
+Timestamp: 10000 - removed micro-clusters: 30 - model's size [NP3]:1
+Removed micro-clusters: 1 label: 1 category: normal
+Removed micro-clusters: 2 label: 1 category: normal
+Removed micro-clusters: 3 label: 1 category: normal
+Removed micro-clusters: 4 label: 1 category: normal
+Removed micro-clusters: 7 label: 1 category: normal
+Removed micro-clusters: 8 label: 1 category: normal
+Removed micro-clusters: 9 label: 1 category: normal
+Removed micro-clusters: 17 label: 1 category: normal
+Removed micro-clusters: 21 label: 1 category: normal
+Removed micro-clusters: 22 label: 1 category: normal
+Removed micro-clusters: 24 label: 1 category: normal
+Removed micro-clusters: 27 label: 1 category: normal
+Removed micro-clusters: 27 label: 1 category: normal
+Removed micro-clusters: 27 label: 1 category: normal
+Removed micro-clusters: 27 label: 1 category: normal
+Removed micro-clusters: 28 label: 1 category: normal
+Removed micro-clusters: 28 label: 1 category: normal
+Removed micro-clusters: 29 label: 1 category: normal
+Removed micro-clusters: 34 label: 1 category: normal
+Removed micro-clusters: 34 label: 1 category: normal
+Removed micro-clusters: 34 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Removed micro-clusters: 38 label: 1 category: normal
+Timestamp: 10000 - removed micro-clusters: 54 - model's size [1]:38
+Timestamp: 10000 - removed micro-clusters: 54 - model's size [NP2]:1
+Removed micro-clusters: 1 label: 2 category: normal
+Removed micro-clusters: 5 label: 2 category: normal
+Removed micro-clusters: 6 label: 2 category: normal
+Removed micro-clusters: 8 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 11 label: 2 category: normal
+Removed micro-clusters: 12 label: 2 category: normal
+Removed micro-clusters: 12 label: 2 category: normal
+Removed micro-clusters: 12 label: 2 category: normal
+Removed micro-clusters: 16 label: 2 category: normal
+Removed micro-clusters: 20 label: 2 category: normal
+Removed micro-clusters: 22 label: 2 category: normal
+Removed micro-clusters: 22 label: 2 category: normal
+Removed micro-clusters: 25 label: 2 category: normal
+Removed micro-clusters: 26 label: 2 category: normal
+Removed micro-clusters: 51 label: 2 category: normal
+Removed micro-clusters: 61 label: 2 category: normal
+Removed micro-clusters: 61 label: 2 category: normal
+Removed micro-clusters: 68 label: 2 category: normal
+Removed micro-clusters: 68 label: 2 category: normal
+Removed micro-clusters: 69 label: 2 category: normal
+Removed micro-clusters: 71 label: 2 category: normal
+Removed micro-clusters: 71 label: 2 category: normal
+Removed micro-clusters: 72 label: 2 category: normal
+Removed micro-clusters: 75 label: 2 category: normal
+Removed micro-clusters: 75 label: 2 category: normal
+Removed micro-clusters: 76 label: 2 category: normal
+Removed micro-clusters: 76 label: 2 category: normal
+Timestamp: 10000 - removed micro-clusters: 82 - model's size [2]:78
+Timestamp: 10000 - removed micro-clusters: 82 - model's size [NP5]:1
+Removed micro-clusters: 2 label: 3 category: normal
+Removed micro-clusters: 7 label: 3 category: normal
+Removed micro-clusters: 11 label: 3 category: normal
+Removed micro-clusters: 12 label: 3 category: normal
+Removed micro-clusters: 16 label: 3 category: normal
+Removed micro-clusters: 19 label: 3 category: normal
+Removed micro-clusters: 19 label: 3 category: normal
+Removed micro-clusters: 27 label: 3 category: normal
+Removed micro-clusters: 27 label: 3 category: normal
+Removed micro-clusters: 28 label: 3 category: normal
+Removed micro-clusters: 29 label: 3 category: normal
+Removed micro-clusters: 31 label: 3 category: normal
+Removed micro-clusters: 32 label: 3 category: normal
+Removed micro-clusters: 33 label: 3 category: normal
+Removed micro-clusters: 34 label: 3 category: normal
+Removed micro-clusters: 34 label: 3 category: normal
+Removed micro-clusters: 36 label: 3 category: normal
+Removed micro-clusters: 36 label: 3 category: normal
+Removed micro-clusters: 46 label: 3 category: normal
+Removed micro-clusters: 48 label: 3 category: normal
+Removed micro-clusters: 49 label: 3 category: normal
+Removed micro-clusters: 51 label: 3 category: normal
+Removed micro-clusters: 53 label: 3 category: normal
+Removed micro-clusters: 59 label: 3 category: normal
+Removed micro-clusters: 59 label: 3 category: normal
+Removed micro-clusters: 61 label: 3 category: normal
+Removed micro-clusters: 61 label: 3 category: normal
+Timestamp: 10000 - removed micro-clusters: 109 - model's size [3]:63
+Timestamp: 10000 - removed micro-clusters: 109 - model's size [NP4]:1
+Removed micro-clusters: 1 label: 4 category: normal
+Removed micro-clusters: 3 label: 4 category: normal
+Removed micro-clusters: 7 label: 4 category: normal
+Removed micro-clusters: 8 label: 4 category: normal
+Removed micro-clusters: 9 label: 4 category: normal
+Removed micro-clusters: 11 label: 4 category: normal
+Removed micro-clusters: 11 label: 4 category: normal
+Removed micro-clusters: 19 label: 4 category: normal
+Removed micro-clusters: 23 label: 4 category: normal
+Removed micro-clusters: 25 label: 4 category: normal
+Removed micro-clusters: 25 label: 4 category: normal
+Removed micro-clusters: 26 label: 4 category: normal
+Removed micro-clusters: 27 label: 4 category: normal
+Removed micro-clusters: 28 label: 4 category: normal
+Removed micro-clusters: 35 label: 4 category: normal
+Removed micro-clusters: 39 label: 4 category: normal
+Removed micro-clusters: 45 label: 4 category: normal
+Removed micro-clusters: 46 label: 4 category: normal
+Removed micro-clusters: 47 label: 4 category: normal
+Removed micro-clusters: 47 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Removed micro-clusters: 51 label: 4 category: normal
+Timestamp: 10000 - removed micro-clusters: 132 - model's size [4]:52
+Timestamp: 10000 - removed micro-clusters: 132 - model's size [NP7]:1
+Timestamp: 10000 - removed micro-clusters: 132 - model's size [NP6]:1
+Timestamp: 10000 - removed micro-clusters: 132 - model's size [NP9]:1
+Timestamp: 10000 - removed micro-clusters: 132 - model's size [NP8]:1
+Timestamp: 10000 - removed micro-clusters: 132 - model's size [NP30]:1

@@ -25,42 +25,42 @@ public class Main {
     public static void main(String[] args) throws Exception {
           
         //****************General*********************
-        String dataSetName = args[1];
-        String trainPath = args[2];
-        String testPath = args[3];
-        int L = Integer.parseInt(args[4]);
-        String outputDirecotory = "";
-        if(args[0].equals("-p")){
-            outputDirecotory = args[5];
+        // String dataSetName = args[1];
+        // String trainPath = args[2];
+        // String testPath = args[3];
+        // int L = Integer.parseInt(args[4]);
+        // String outputDirecotory = "";
+        // if(args[0].equals("-p")){
+        //     outputDirecotory = args[5];
             
-            experimentsParameters(dataSetName,
-                trainPath,
-                testPath,
-                L,
-                outputDirecotory);
-        }else if (args[0].equals("-m")){
-            double k_ini = Double.parseDouble(args[5]);
-            String theta = "" + (int) Math.ceil(Double.parseDouble(args[6]) * Double.parseDouble(args[7]));
-            String omega = args[7];
-            outputDirecotory = args[8] + "/" + dataSetName;
+        //     experimentsParameters(dataSetName,
+        //         trainPath,
+        //         testPath,
+        //         L,
+        //         outputDirecotory);
+        // }else if (args[0].equals("-m")){
+        //     double k_ini = Double.parseDouble(args[5]);
+        //     String theta = "" + (int) Math.ceil(Double.parseDouble(args[6]) * Double.parseDouble(args[7]));
+        //     String omega = args[7];
+        //     outputDirecotory = args[8] + "/" + dataSetName;
             
-            experimentsMethods(trainPath, 
-                testPath, 
-                outputDirecotory,
-                L, 
-                k_ini,
-                theta, 
-                omega,
-                "1.1",
-                "kmeans+leader",
-                "JI");
-        }else if (args[0].equals("-b")){
-            outputDirecotory = args[5] + "/batch/"+dataSetName+"/";
-            ExperimentBatch.execute(trainPath, testPath, outputDirecotory, "50");
-        }else if(args[0].equals("-o")){
-            outputDirecotory = args[5] + "/upperBound/"+dataSetName+"/";
-            ExperimentUpperBound.execute(trainPath, testPath, outputDirecotory, 50);
-        }
+        //     experimentsMethods(trainPath, 
+        //         testPath, 
+        //         outputDirecotory,
+        //         L, 
+        //         k_ini,
+        //         theta, 
+        //         omega,
+        //         "1.1",
+        //         "kmeans+leader",
+        //         "JI");
+        // }else if (args[0].equals("-b")){
+        //     outputDirecotory = args[5] + "/batch/"+dataSetName+"/";
+        //     ExperimentBatch.execute(trainPath, testPath, outputDirecotory, "50");
+        // }else if(args[0].equals("-o")){
+        //     outputDirecotory = args[5] + "/upperBound/"+dataSetName+"/";
+        //     ExperimentUpperBound.execute(trainPath, testPath, outputDirecotory, 50);
+        // }
         
 //        //****************MOA-3C*********************
 //        String dataSetName = "MOA-3C_teste_updating";
@@ -138,26 +138,26 @@ public class Main {
 //        //*****************************************
 
 ////        //****************MOA2*********************
-//        String dataSetName = "MOA2";
-//        String trainPath = "/home/joel/Documents/datasets/datasets_sinteticos/4CRE-V2/4CRE-V2-train.arff";
-//        String testPath = "/home/joel/Documents/datasets/datasets_sinteticos/4CRE-V2/4CRE-V2-test.arff";
-//        String outputDirecotory = "/home/joel/results_jan2021/"+dataSetName+"/";
-//        double k_ini = 0.01;
-//        String theta = "200";
-//        String omega = "200";
-//        int L = 4;
+       String dataSetName = "MOA2";
+       String trainPath = "MINAS-BR_jan2021\\datasets\\4CRE-V2-train.arff";
+       String testPath = "MINAS-BR_jan2021\\datasets\\4CRE-V2-test.arff";
+       String outputDirecotory = "MINAS-BR_jan2021\\resultados_testes_2025\\"+dataSetName+"\\";
+       double k_ini = 0.01;
+       String theta = "150";
+       String omega = "200";
+       int L = 4;
 //        //*****************************************
         
-//        experimentsMethods(trainPath, 
-//                testPath, 
-//                outputDirecotory,
-//                L, 
-//                k_ini,
-//                theta_param, 
-//                omega,
-//                "1",
-//                "kmeans+leader",
-//                "JI");
+       experimentsMethods(trainPath, 
+               testPath, 
+               outputDirecotory,
+               L, 
+               k_ini,
+               theta, 
+               omega,
+               "1.1",
+               "kmeans+leader",
+               "JI");
 //        
 //        experimentsParameters(dataSetName,
 //                trainPath,
@@ -276,8 +276,8 @@ public class Main {
 //        float[] windowsCardinalities = DataSetUtils.getWindowsCardinalities(test, evaluationWindowSize, L);
 
         //Create output files
-        FileWriter filePredictions = new FileWriter(new File(outputDirectory + "/predictionsInfo.csv"), false); //Armazena informações da fase online
-        filePredictions.write("timestamp;actual;predicted" + "\n");
+        FileWriter filePredictions = new FileWriter(new File(outputDirectory + "/faseOnlineInfo.txt"), false); //Armazena informações da fase online
+        // filePredictions.write("timestamp;actual;predicted" + "\n");
         FileWriter fileOff = new FileWriter(new File(outputDirectory + "/faseOfflineInfo.txt"), false); //Armazena informações da fase online
         FileWriter fileOut = new FileWriter(new File(outputDirectory + "/results.txt"), false); //Armazena informações da fase de treinamento
         
@@ -398,7 +398,7 @@ public class Main {
 
         DsInfos.write("Train label cardinality: " + cardinalityTrain + "\n");
         DsInfos.write("General label cardinality: " + labelCardinality + "\n");
-//        DsInfos.write("Windows label cardinality: " + Arrays.toString(windowsCardinalities) + "\n");
+        // DsInfos.write("Windows label cardinality: " + Arrays.toString(windowsCardinalities) + "\n");
         DsInfos.write("Number of examples: " + train.size()+test.size() + "\n");
         DsInfos.write("Number of attributes: " + train.get(0).numInputAttributes() +"\n");
         DsInfos.close();

@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+Thinking np: N 4 - 4 examples
+
+
+
+
+
+
+
+
+
+
+Thinking np: N NP1 - 4 examples
+
+
+
+
+
+Thinking np: N NP1 - 4 examplesThinking Extension: C 1 - 4 examples
+Thinking Extension: C 2 - 4 examples
+
+
+
+Thinking np: N NP1 - 4 examples
+
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [0]:2
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP3]:2
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [1]:5
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP2]:2
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [2]:5
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [3]:3
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [4]:2
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [NP1]:1
+
+Thinking np: N NP1 - 4 examples
+
+
+Thinking np: N NP1 - 4 examples
+
+
+Thinking np: N NP1 - 4 examples
+
+Thinking np: N NP1 - 4 examples
+
+Thinking np: N NP1 - 4 examples
+Removed examples from short-time-memory: 1327	 True labels: [0]
+Removed examples from short-time-memory: 1430	 True labels: [0]
+Removed examples from short-time-memory: 1491	 True labels: [3]
+Removed examples from short-time-memory: 1881	 True labels: [2]
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP1]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [0]:2
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP3]:2
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [1]:5
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP2]:2
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [2]:5
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP5]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [3]:3
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP4]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [4]:2
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP7]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP6]:1
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [NP8]:1
+
+
+
+
+
+
+
+Removed examples from short-time-memory: 2287	 True labels: [2]
+Removed examples from short-time-memory: 3714	 True labels: [3]
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP1]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [0]:2
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP3]:2
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [1]:5
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP2]:2
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [2]:5
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP5]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [3]:3
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP4]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [4]:2
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP7]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP6]:1
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [NP8]:1
+
+
+
+
+
+
+
+Thinking np: N NP8 - 4 examples
+Thinking np: N NP8 - 4 examples
+
+Thinking np: N NP8 - 4 examples
+
+
+Thinking np: N NP8 - 5 examples
+Thinking np: N NP8 - 4 examples
+
+Removed examples from short-time-memory: 5207	 True labels: [3]
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP13]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP10]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP11]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP12]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP1]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [0]:2
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP3]:2
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [1]:5
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP2]:2
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [2]:5
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP5]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [3]:3
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP4]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [4]:2
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP7]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP6]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP9]:1
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [NP8]:1
+
+
+
+

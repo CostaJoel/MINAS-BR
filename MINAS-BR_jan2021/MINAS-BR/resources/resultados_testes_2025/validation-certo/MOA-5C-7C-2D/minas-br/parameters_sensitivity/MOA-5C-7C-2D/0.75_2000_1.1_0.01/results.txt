@@ -1,0 +1,53 @@
+
+
+
+
+
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [0]:37
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [1]:21
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [2]:38
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [3]:31
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [4]:30
+
+
+Removed examples from short-time-memory: 30	 True labels: [1]
+Removed examples from short-time-memory: 159	 True labels: [3]
+Removed examples from short-time-memory: 297	 True labels: [2]
+Removed examples from short-time-memory: 588	 True labels: [1]
+Removed examples from short-time-memory: 1710	 True labels: [1]
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [0]:37
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [1]:21
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [2]:38
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [3]:31
+Timestamp: 4000 - removed micro-clusters: 0 - model's size [4]:30
+
+
+
+Removed examples from short-time-memory: 2140	 True labels: [4]
+Removed examples from short-time-memory: 2804	 True labels: [3]
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [0]:37
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [1]:21
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [2]:38
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [3]:31
+Timestamp: 6000 - removed micro-clusters: 0 - model's size [4]:30
+
+
+Removed examples from short-time-memory: 4893	 True labels: [4]
+Removed examples from short-time-memory: 5138	 True labels: [2]
+Removed examples from short-time-memory: 5272	 True labels: [4]
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [0]:37
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [1]:21
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [2]:38
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [3]:31
+Timestamp: 8000 - removed micro-clusters: 0 - model's size [4]:30
+
+
+
+
+Removed examples from short-time-memory: 6616	 True labels: [4]
+Removed examples from short-time-memory: 6780	 True labels: [2]
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [0]:37
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [1]:21
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [2]:38
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [3]:31
+Timestamp: 10000 - removed micro-clusters: 0 - model's size [4]:30
